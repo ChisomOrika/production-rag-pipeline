@@ -1,0 +1,9 @@
+[project]
+name = "production-rag-pipeline"
+version = "1.0.0"
+description = "Production RAG Pipeline with Data Freshness Guarantees"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"

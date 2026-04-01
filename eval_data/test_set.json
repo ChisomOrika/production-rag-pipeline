@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What are the key financial risk factors disclosed in SEC 10-K filings?",
+    "expected_answer": "Common risk factors include market volatility, regulatory changes, competition, cybersecurity threats, and supply chain disruptions.",
+    "expected_source_urls": [],
+    "expected_version": null
+  },
+  {
+    "question": "What is the deadline for annual report filing for large accelerated filers?",
+    "expected_answer": "Large accelerated filers must file their annual report (10-K) within 60 days after the end of their fiscal year.",
+    "expected_source_urls": [],
+    "expected_version": null
+  },
+  {
+    "question": "What are the disclosure requirements for executive compensation?",
+    "expected_answer": "Companies must disclose compensation for the CEO, CFO, and the three other highest-paid executive officers, including salary, bonus, stock awards, and other compensation.",
+    "expected_source_urls": [],
+    "expected_version": null
+  },
+  {
+    "question": "How are material weaknesses in internal controls reported?",
+    "expected_answer": "Material weaknesses must be disclosed in the annual report and are identified through the auditor's assessment of internal controls over financial reporting.",
+    "expected_source_urls": [],
+    "expected_version": null
+  },
+  {
+    "question": "What triggers an 8-K filing requirement?",
+    "expected_answer": "Events such as acquisitions, dispositions, bankruptcy, changes in auditors, changes in control, and departure of key officers trigger 8-K filing requirements.",
+    "expected_source_urls": [],
+    "expected_version": null
+  }
+]

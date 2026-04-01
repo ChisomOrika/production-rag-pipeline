@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+data/landing/
+data/bronze/
+data/silver/
+data/gold/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.venv/
+venv/

@@ -1,0 +1,117 @@
+SEC Regulation S-P: Privacy of Consumer Financial Information
+
+SECURITIES AND EXCHANGE COMMISSION
+17 CFR Part 248 — Regulation S-P
+Amended May 2024
+
+OVERVIEW
+
+Regulation S-P implements the privacy provisions of the Gramm-Leach-Bliley Act (GLBA) for SEC-registered entities including broker-dealers, investment companies, and registered investment advisers. The regulation governs how these entities collect, use, and disclose nonpublic personal information (NPI) of consumers and customers.
+
+In May 2024, the SEC adopted significant amendments to Regulation S-P, adding comprehensive requirements for incident response and data breach notification, aligning with modern cybersecurity expectations.
+
+SCOPE AND COVERED INSTITUTIONS
+
+Regulation S-P applies to:
+- Broker-dealers registered with the SEC
+- Investment companies registered under the Investment Company Act of 1940
+- Investment advisers registered with the SEC
+- Transfer agents registered with the SEC (added in 2024 amendments)
+
+PRIVACY NOTICE REQUIREMENTS
+
+Initial Privacy Notice:
+Financial institutions must provide a clear and conspicuous privacy notice to customers at the time the customer relationship is established. The notice must describe:
+- Categories of NPI collected
+- Categories of NPI disclosed to third parties
+- Categories of third parties to whom NPI is disclosed
+- Policies and practices for protecting NPI
+- Consumer's right to opt out of certain disclosures
+
+Annual Privacy Notice:
+Must be provided at least once every 12 months during the customer relationship. Exception: If the institution has not changed its policies since the last notice and only shares NPI under exceptions that do not require opt-out, the annual notice requirement may be satisfied through an alternative delivery method.
+
+Revised Privacy Notice:
+Required if the institution changes its privacy practices in a material way, including sharing NPI with new categories of third parties not previously disclosed.
+
+OPT-OUT REQUIREMENTS
+
+Consumers must be given a reasonable opportunity to opt out before NPI is shared with nonaffiliated third parties, unless an exception applies.
+
+Exceptions where opt-out is NOT required:
+- Disclosures necessary to effect, administer, or enforce a transaction requested by the consumer
+- Disclosures to service providers with contractual obligations to protect confidentiality
+- Disclosures required by law, regulation, or legal process
+- Disclosures with consumer consent
+- Disclosures to protect against fraud
+- Disclosures in connection with a proposed or actual sale of the business
+
+SAFEGUARDS RULE (17 CFR 248.30)
+
+Every covered institution must adopt written policies and procedures that address:
+1. Administrative safeguards (employee training, access controls)
+2. Technical safeguards (encryption, access controls, monitoring)
+3. Physical safeguards (facility access, equipment disposal)
+
+The safeguards must be reasonably designed to:
+- Ensure the security and confidentiality of customer records and information
+- Protect against anticipated threats to security or integrity
+- Protect against unauthorized access or use
+
+2024 AMENDMENTS: INCIDENT RESPONSE AND BREACH NOTIFICATION
+
+The 2024 amendments to Regulation S-P added new requirements:
+
+Incident Response Program:
+Covered institutions must establish, maintain, and enforce written policies and procedures for an incident response program that includes:
+- Procedures to detect, respond to, and recover from unauthorized access to or use of customer information
+- Assessment of the nature and scope of any incident
+- Steps to contain and control the incident
+- Notification procedures
+
+Customer Notification Requirements:
+- Covered institutions must notify affected individuals whose sensitive customer information was or is reasonably likely to have been accessed or used without authorization
+- Notification must be provided as soon as practicable, but no later than 30 days after the institution becomes aware that unauthorized access has occurred or is reasonably likely to have occurred
+- The notice must include:
+  - Description of the incident in general terms
+  - The type of sensitive customer information involved
+  - Contact information for the institution
+  - Contact information for the entity responsible (if a service provider incident)
+  - Information about FTC's identity theft resources
+
+Service Provider Oversight:
+- Covered institutions must require service providers to notify the institution as soon as possible, but no later than 72 hours, after becoming aware of a breach involving the institution's customer information
+- Written contracts with service providers must include provisions requiring:
+  - Protection of customer information
+  - Notification of security incidents
+  - Appropriate disposal of customer information
+
+DISPOSAL OF CONSUMER REPORT INFORMATION (REGULATION S-P, SUBPART B)
+
+Covered institutions must properly dispose of consumer report information by taking reasonable measures to protect against unauthorized access to or use of the information in connection with its disposal. Acceptable disposal methods include:
+- Burning, pulverizing, or shredding of physical documents
+- Erasing or destroying electronic media
+- Contracting with a third-party disposal service that meets the reasonable measures standard
+
+COMPLIANCE TIMELINE FOR 2024 AMENDMENTS
+
+- Larger entities (>$1.5 billion AUM for advisers, or $500 million+ total assets for broker-dealers): 18 months from adoption (approximately November 2025)
+- Smaller entities: 24 months from adoption (approximately May 2026)
+
+ENFORCEMENT AND PENALTIES
+
+The SEC has brought enforcement actions for Regulation S-P violations, including:
+- Morgan Stanley (2023): $6.5 million penalty for failing to properly dispose of devices containing customer NPI
+- Cetera Financial Group (2021): $1.8 million penalty for cybersecurity failures impacting customer data
+- Various firms: Penalties for failing to deliver privacy notices or maintain adequate safeguards
+
+INTERACTION WITH OTHER PRIVACY REGULATIONS
+
+Regulation S-P intersects with:
+- State privacy laws (California's CCPA/CPRA, Virginia's CDPA, Colorado's CPA, etc.)
+- GDPR (for firms with EU clients)
+- NYDFS Cybersecurity Regulation (23 NYCRR 500)
+- FTC Safeguards Rule (for non-SEC-regulated entities)
+- State data breach notification laws (all 50 states have breach notification requirements)
+
+Covered institutions must comply with the most restrictive applicable requirements. In many cases, compliance with Regulation S-P's 2024 amendments will also satisfy parallel state requirements.

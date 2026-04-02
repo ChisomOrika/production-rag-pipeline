@@ -1,0 +1,85 @@
+Regulation Best Interest (Reg BI): Standards of Conduct for Broker-Dealers
+
+SECURITIES AND EXCHANGE COMMISSION
+17 CFR Part 240 — Rule 15l-1
+Effective Date: June 30, 2020
+
+OVERVIEW
+
+Regulation Best Interest (Reg BI) establishes a new standard of conduct for broker-dealers and their associated persons when making recommendations to retail customers of any securities transaction or investment strategy involving securities. The rule requires broker-dealers to act in the best interest of the retail customer at the time the recommendation is made, without placing the broker-dealer's financial or other interests ahead of the customer's interests.
+
+Reg BI was adopted as part of a broader package of rulemakings, including Form CRS (Client Relationship Summary), which requires broker-dealers and investment advisers to provide a brief summary of their services, fees, and conflicts of interest.
+
+THE FOUR COMPONENT OBLIGATIONS
+
+Obligation 1: Disclosure Obligation
+Before or at the time of the recommendation, the broker-dealer must provide the retail customer with full and fair disclosure of:
+- All material facts relating to the scope and terms of the relationship, including:
+  - That the broker-dealer is acting in a broker-dealer capacity
+  - Material fees and costs the customer will incur
+  - The type and scope of services provided
+- All material facts relating to conflicts of interest associated with the recommendation
+
+The disclosure must be made in writing and delivered before or at the time of the recommendation.
+
+Obligation 2: Care Obligation
+The broker-dealer must exercise reasonable diligence, care, and skill when making recommendations. This requires:
+- Understanding the potential risks, rewards, and costs of the recommendation
+- Having a reasonable basis to believe the recommendation is in the best interest of the particular retail customer, based on the customer's investment profile
+- Having a reasonable basis to believe that a series of recommended transactions, taken together, are not excessive and are in the customer's best interest
+
+The customer's investment profile includes: age, other investments, financial situation and needs, tax status, investment objectives, investment experience, investment time horizon, liquidity needs, risk tolerance, and any other information disclosed by the customer.
+
+Obligation 3: Conflict of Interest Obligation
+The broker-dealer must establish, maintain, and enforce written policies and procedures reasonably designed to:
+- Identify and at a minimum disclose all conflicts of interest associated with recommendations
+- Identify and mitigate conflicts that create an incentive to place the broker-dealer's interest ahead of the customer's interest
+- Identify and eliminate sales contests, sales quotas, bonuses, and non-cash compensation based on the sale of specific securities or specific types of securities within a limited time period
+
+Obligation 4: Compliance Obligation
+The broker-dealer must establish, maintain, and enforce written policies and procedures reasonably designed to achieve compliance with Reg BI as a whole.
+
+FORM CRS (CLIENT RELATIONSHIP SUMMARY)
+
+Both broker-dealers and investment advisers must deliver Form CRS to retail investors. The form is a brief (maximum 2 pages for single registrants, 4 pages for dual registrants) summary that includes:
+- Introduction describing the firm and type of services
+- Relationships and services offered
+- Fees, costs, conflicts, and standard of conduct
+- Disciplinary history
+- Additional information and how to find it
+
+Form CRS must be filed with the SEC via EDGAR and posted on the firm's website.
+
+COMPARISON WITH INVESTMENT ADVISER FIDUCIARY DUTY
+
+| Feature | Reg BI (Broker-Dealer) | Fiduciary Duty (Investment Adviser) |
+|---------|----------------------|-------------------------------------|
+| Standard | Best interest at time of recommendation | Ongoing fiduciary duty |
+| Scope | Transaction-specific recommendations | Entire advisory relationship |
+| Monitoring | No ongoing monitoring duty (unless agreed) | Ongoing monitoring duty |
+| Fees | Typically commission-based | Typically fee-based (AUM, hourly, flat) |
+| Account type | Brokerage account | Advisory account |
+| Key regulation | Exchange Act Section 15(l) | Advisers Act Sections 206(1), 206(2) |
+
+ENFORCEMENT
+
+The SEC has brought numerous enforcement actions for Reg BI violations since its effective date, including:
+- Failure to consider reasonably available alternatives before recommending high-cost products
+- Inadequate conflict of interest disclosures
+- Recommending complex products (leveraged/inverse ETFs, variable annuities) without a reasonable basis
+- Failing to address conflicts created by compensation structures
+
+Penalties include disgorgement, civil penalties, censures, and bars from the industry.
+
+COMPLIANCE BEST PRACTICES
+
+1. Develop comprehensive Reg BI policies and procedures
+2. Train registered representatives on all four obligations
+3. Implement product-level review processes before allowing recommendations
+4. Maintain documentation of the basis for each recommendation
+5. Conduct regular surveillance for excessive trading and concentration
+6. Review and update conflict of interest inventories at least annually
+7. Ensure Form CRS is accurate and delivered timely
+8. Implement supervisory procedures specific to complex products
+9. Review compensation structures for conflicts
+10. Establish escalation procedures for identified conflicts

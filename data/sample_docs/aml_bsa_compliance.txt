@@ -1,0 +1,166 @@
+Anti-Money Laundering and Bank Secrecy Act Compliance Framework
+
+FINANCIAL CRIMES ENFORCEMENT NETWORK (FinCEN)
+31 CFR Chapter X — Financial Crimes Enforcement Network, Department of the Treasury
+Bank Secrecy Act (31 U.S.C. 5311-5332)
+
+OVERVIEW
+
+The Bank Secrecy Act (BSA), as amended by the USA PATRIOT Act and the Anti-Money Laundering Act of 2020 (AMLA), establishes a comprehensive framework for detecting and preventing money laundering, terrorist financing, and other financial crimes. Financial institutions are required to assist government agencies in detecting and preventing financial crimes through recordkeeping and reporting requirements.
+
+AML PROGRAM REQUIREMENTS
+
+Every financial institution must establish and maintain an effective AML program that includes, at minimum:
+
+1. Internal Policies, Procedures, and Controls
+- Written policies and procedures tailored to the institution's risk profile
+- Risk-based approach to customer due diligence
+- Transaction monitoring systems
+- Suspicious activity investigation and reporting procedures
+- Record retention policies (5-year minimum for most records)
+
+2. Designation of a Compliance Officer
+- The BSA/AML compliance officer must have sufficient authority, independence, and resources
+- Responsible for day-to-day AML compliance
+- Reports to senior management and/or the board of directors
+- Must be knowledgeable about BSA requirements and money laundering typologies
+
+3. Ongoing Employee Training Program
+- Training must be provided to all relevant employees
+- Tailored to the employee's specific responsibilities
+- Must cover:
+  - BSA/AML regulatory requirements
+  - Internal policies and procedures
+  - Examples of suspicious activity
+  - Reporting procedures
+  - Consequences of non-compliance
+- Annual training with updates for regulatory changes
+
+4. Independent Testing (Audit)
+- Independent review of the AML program at least every 12-18 months
+- Must assess the adequacy of policies, procedures, and controls
+- May be conducted by internal audit (with appropriate independence) or external auditors
+- Must test transaction monitoring systems and SAR filing processes
+- Findings must be reported to the board of directors or audit committee
+
+CUSTOMER DUE DILIGENCE (CDD) AND ENHANCED DUE DILIGENCE (EDD)
+
+CDD Rule (31 CFR 1010.230):
+Financial institutions must establish and maintain written procedures to:
+1. Identify and verify the identity of customers (Customer Identification Program — CIP)
+2. Identify and verify the identity of beneficial owners of legal entity customers (25% ownership threshold or individual with significant control)
+3. Understand the nature and purpose of customer relationships
+4. Conduct ongoing monitoring to identify and report suspicious transactions and, on a risk basis, maintain and update customer information
+
+Enhanced Due Diligence is required for:
+- Politically Exposed Persons (PEPs)
+- Correspondent banking relationships with foreign financial institutions
+- Private banking accounts for non-US persons
+- Customers in high-risk jurisdictions (FATF grey/black list)
+- Customers in high-risk industries (money services businesses, casinos, marijuana-related businesses, cryptocurrency exchanges)
+- Complex legal structures with opaque ownership
+
+SUSPICIOUS ACTIVITY REPORTING (SAR)
+
+Financial institutions must file a SAR with FinCEN when:
+- The institution knows, suspects, or has reason to suspect that a transaction:
+  - Involves funds derived from illegal activity
+  - Is designed to evade BSA requirements
+  - Has no business or apparent lawful purpose
+  - Involves use of the institution to facilitate criminal activity
+- For banks: transactions of $5,000 or more
+- For MSBs: transactions of $2,000 or more
+
+SAR Filing Requirements:
+- File within 30 calendar days of initial detection (60 days if no suspect identified and additional time needed)
+- Continue monitoring and file continuing SARs every 90 days if suspicious activity persists
+- Maintain SAR and supporting documentation for 5 years
+- SARs are confidential — institutions may not disclose the existence of a SAR to the subject
+
+CURRENCY TRANSACTION REPORTING (CTR)
+
+Financial institutions must file a CTR (FinCEN Form 112) for:
+- Each deposit, withdrawal, exchange of currency, or other payment or transfer involving currency of more than $10,000
+- Multiple transactions by or on behalf of the same person that aggregate to more than $10,000 in a single business day
+
+Structuring (31 U.S.C. 5324): It is illegal to structure transactions to evade CTR reporting requirements. Breaking a single transaction into multiple smaller transactions to avoid the $10,000 threshold is a federal crime.
+
+BENEFICIAL OWNERSHIP INFORMATION (BOI) REPORTING
+
+The Corporate Transparency Act (CTA), part of AMLA 2020, requires:
+- Most U.S. companies and foreign companies registered in the U.S. to report beneficial ownership information to FinCEN
+- Beneficial owners: individuals who directly or indirectly own 25%+ of the company or exercise substantial control
+- Reports filed through FinCEN's BOI E-Filing system
+- Initial reporting deadline: January 1, 2025 for existing companies (extended from January 1, 2024)
+- New companies: within 90 days of formation/registration
+- Updates required within 30 days of any change in beneficial ownership
+
+Note: As of 2024, the CTA reporting requirements face ongoing legal challenges, with several federal courts issuing injunctions.
+
+FinCEN ENFORCEMENT ACTIONS AND PENALTIES
+
+Civil penalties for BSA/AML violations:
+- Failure to file CTRs: Up to $89,078 per violation (as adjusted for inflation)
+- Failure to file SARs: Up to $89,078 per violation
+- Failure to maintain adequate AML program: Up to $89,078 per day
+- Willful violations: Up to the greater of $89,078 or the amount involved (up to $100,000)
+- Egregious violations involving financial institutions: Penalties can reach hundreds of millions of dollars
+
+Notable enforcement actions:
+- TD Bank (2024): $3 billion penalty for systemic AML failures — largest BSA/AML penalty against a U.S. financial institution
+- Binance (2023): $4.3 billion penalty (combined FinCEN, DOJ, OFAC, CFTC) for AML violations
+- Deutsche Bank (2023): $186 million penalty for BSA/AML compliance failures
+- Danske Bank (2022): $2 billion penalty for massive money laundering scheme through Estonian branch
+- Capital One (2021): $390 million penalty for willful failure to file CTRs
+
+Criminal penalties (18 U.S.C. 1956, 1957):
+- Money laundering: Up to $500,000 or twice the amount of the transaction, and/or up to 20 years imprisonment
+- Monetary transactions in criminally derived property: Up to $250,000 and/or 10 years imprisonment
+- Structuring: Up to $250,000 and/or 5 years imprisonment
+
+TRANSACTION MONITORING
+
+Effective transaction monitoring requires:
+1. Risk-based approach aligned with the institution's customer base and products
+2. Automated monitoring systems with appropriate scenarios and thresholds
+3. Regular model validation and tuning (at least annually)
+4. Alert investigation procedures with documented rationale
+5. Escalation procedures for complex cases
+6. Quality assurance review of SAR/no-SAR decisions
+7. Metrics tracking: alert-to-SAR ratio, investigation timelines, backlog management
+
+Common monitoring scenarios:
+- Rapid movement of funds (in-and-out)
+- Round-dollar transactions
+- Geographic risk (transactions involving high-risk jurisdictions)
+- Structuring patterns (transactions just below $10,000)
+- Cash-intensive business monitoring
+- Peer group analysis (activity inconsistent with stated business type)
+- Funnel accounts (many-to-one or one-to-many patterns)
+- Shell company indicators
+
+EMERGING RISKS AND REGULATORY FOCUS AREAS
+
+1. Cryptocurrency and Virtual Assets:
+   - FinCEN's proposed rule to treat convertible virtual currency mixers as a primary money laundering concern
+   - Travel Rule requirements for virtual asset service providers
+   - DeFi and peer-to-peer transaction monitoring challenges
+
+2. Beneficial Ownership Transparency:
+   - Implementation of Corporate Transparency Act reporting
+   - Integration of FinCEN BOI database with financial institution CDD processes
+
+3. AI/ML in Transaction Monitoring:
+   - Regulatory guidance on model risk management for AI-based AML systems
+   - Explainability requirements for automated SAR generation
+   - Potential for reducing false positive rates while maintaining detection effectiveness
+
+4. Real-Time Payments:
+   - FedNow and instant payment rails creating compressed timelines for fraud detection
+   - Need for real-time monitoring capabilities
+   - Challenges in recovering funds after instant settlement
+
+5. Trade-Based Money Laundering:
+   - Increased regulatory scrutiny of trade finance transactions
+   - Focus on over/under-invoicing and phantom shipments
+   - Multi-jurisdictional coordination challenges

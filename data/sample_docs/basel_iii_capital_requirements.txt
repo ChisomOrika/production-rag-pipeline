@@ -1,0 +1,156 @@
+Basel III Capital Requirements Framework
+
+BANK FOR INTERNATIONAL SETTLEMENTS
+Basel Committee on Banking Supervision
+
+INTRODUCTION
+
+Basel III is a comprehensive set of reform measures developed by the Basel Committee on Banking Supervision to strengthen the regulation, supervision, and risk management of the banking sector. The framework was developed in response to the 2007-2009 global financial crisis, which revealed significant weaknesses in the banking sector's ability to absorb systemic shocks.
+
+The Basel III reforms address both microprudential regulation (at the individual bank level) and macroprudential concerns (system-wide risks that can build up across the banking sector).
+
+PILLAR 1: MINIMUM CAPITAL REQUIREMENTS
+
+Common Equity Tier 1 (CET1) Capital
+
+The minimum CET1 ratio is 4.5% of risk-weighted assets (RWA). CET1 capital must consist of:
+- Common shares issued by the bank
+- Stock surplus (share premium) resulting from the issuance of CET1 instruments
+- Retained earnings
+- Accumulated other comprehensive income (AOCI)
+- Common shares issued by consolidated subsidiaries and held by third parties (minority interest)
+- Regulatory adjustments applied in the calculation of CET1
+
+Tier 1 Capital
+
+The minimum Tier 1 capital ratio is 6% of RWA. Tier 1 = CET1 + Additional Tier 1 (AT1) capital.
+
+AT1 instruments must be:
+- Subordinated to depositors, general creditors, and subordinated debt
+- Perpetual (no maturity date)
+- Callable only after a minimum of 5 years, subject to supervisory approval
+- Capable of absorbing losses through conversion to equity or write-down
+
+Total Capital
+
+The minimum total capital ratio is 8% of RWA. Total Capital = Tier 1 + Tier 2 capital.
+
+CAPITAL BUFFERS
+
+Capital Conservation Buffer (CCB): 2.5% of RWA, composed entirely of CET1 capital. Banks that fail to maintain the buffer face restrictions on dividends, share buybacks, and discretionary bonus payments.
+
+Countercyclical Capital Buffer (CCyB): 0-2.5% of RWA, determined by national authorities based on credit growth conditions. Designed to ensure the banking system has the buffer of capital to protect against future potential losses when excess aggregate credit growth is associated with increased system-wide risk.
+
+Systemically Important Bank Surcharges:
+- Global Systemically Important Banks (G-SIBs): Additional 1-3.5% CET1 surcharge based on systemic importance score
+- Domestic Systemically Important Banks (D-SIBs): Additional surcharge determined by national authorities
+
+Total effective minimum for G-SIBs: 4.5% (CET1 minimum) + 2.5% (CCB) + 0-2.5% (CCyB) + 1-3.5% (G-SIB) = 8.5% to 13% CET1
+
+PILLAR 2: SUPERVISORY REVIEW
+
+The Internal Capital Adequacy Assessment Process (ICAAP) requires banks to:
+1. Assess all material risks not fully captured under Pillar 1
+2. Set internal capital targets above the regulatory minimum
+3. Develop strategies for maintaining capital levels
+4. Subject the ICAAP to regular internal review
+
+Key risks addressed under Pillar 2 include:
+- Concentration risk
+- Interest rate risk in the banking book (IRRBB)
+- Liquidity risk beyond the minimum requirements
+- Strategic and reputational risk
+- Residual risk from credit risk mitigation
+
+PILLAR 3: MARKET DISCIPLINE
+
+Enhanced disclosure requirements covering:
+- Capital composition and adequacy
+- Risk exposure and assessment methodologies
+- Credit risk mitigation techniques
+- Securitization exposures
+- Liquidity coverage ratio (LCR) and net stable funding ratio (NSFR)
+- Leverage ratio
+- Remuneration policies
+
+LEVERAGE RATIO
+
+A non-risk-based backstop: minimum 3% Tier 1 capital / total exposure measure.
+
+The exposure measure includes:
+- On-balance sheet exposures
+- Derivative exposures (SA-CCR methodology)
+- Securities financing transaction (SFT) exposures
+- Off-balance sheet items (credit conversion factors)
+
+G-SIBs face an additional leverage ratio buffer of 50% of their G-SIB surcharge.
+
+LIQUIDITY REQUIREMENTS
+
+Liquidity Coverage Ratio (LCR): Banks must hold enough high-quality liquid assets (HQLA) to cover net cash outflows over a 30-day stress period.
+
+LCR = Stock of HQLA / Total net cash outflows over 30 days >= 100%
+
+HQLA are classified into:
+- Level 1 (no haircut): Cash, central bank reserves, qualifying sovereign debt
+- Level 2A (15% haircut): Certain government securities, covered bonds, corporate bonds rated AA- or higher
+- Level 2B (25-50% haircut): Certain corporate bonds rated A+ to BBB-, RMBS, qualifying equities
+
+Net Stable Funding Ratio (NSFR): Banks must maintain a stable funding profile relative to their assets and off-balance sheet activities over a one-year horizon.
+
+NSFR = Available stable funding / Required stable funding >= 100%
+
+CREDIT RISK: STANDARDIZED APPROACH REVISIONS
+
+Key changes in the revised standardized approach:
+- More granular risk weights for residential mortgages (based on LTV ratios)
+- Introduction of due diligence requirements to reduce mechanistic reliance on external credit ratings
+- Revised risk weights for exposures to banks and corporates
+- New asset class for specialized lending
+- Introduction of an output floor: standardized RWA cannot be lower than 72.5% of internal models RWA
+
+CREDIT RISK: INTERNAL RATINGS-BASED (IRB) APPROACH REVISIONS
+
+- Removal of IRB approach for certain exposure classes (large corporates, banks, financial institutions)
+- Introduction of input floors for PD, LGD, and EAD parameters
+- Minimum PD of 5 basis points for all exposures
+- Minimum LGD floors of 25% for unsecured corporate exposures
+- Constraints on the use of own estimates of EAD
+
+OPERATIONAL RISK
+
+Replacement of all existing approaches with a single Standardized Measurement Approach (SMA):
+- Based on a Business Indicator (BI) derived from financial statements
+- BI Component calculated using marginal coefficients (12%, 15%, 18%)
+- Internal Loss Multiplier based on average historical losses
+- Eliminates the use of internal models for operational risk capital
+
+MARKET RISK: FUNDAMENTAL REVIEW OF THE TRADING BOOK (FRTB)
+
+The revised framework introduces:
+- Clearer boundary between trading book and banking book
+- Revised Standardized Approach (SA) based on sensitivities
+- Revised Internal Models Approach (IMA) using Expected Shortfall (ES) at 97.5% confidence
+- Default Risk Charge (DRC) for credit risk in the trading book
+- Residual Risk Add-On (RRAO) for exotic exposures
+
+IMPLEMENTATION TIMELINE
+
+The Basel III framework was originally to be fully implemented by January 1, 2023. Due to COVID-19, the implementation deadline for the final reforms (Basel III.1) was extended to January 1, 2025.
+
+As of 2024:
+- EU: CRR3 regulation adopted, with implementation from January 1, 2025 (transitional provisions through 2030)
+- US: Federal Reserve proposed rules in 2023 (the "Basel III Endgame"), with implementation timelines under review following significant industry pushback
+- UK: PRA finalized rules effective January 1, 2025
+- Japan, Canada, Singapore: Largely on track for 2025 implementation
+
+US BASEL III ENDGAME STATUS
+
+The US Basel III Endgame proposal (2023) would apply to banks with $100 billion+ in assets and includes:
+- Expanded scope of the standardized approach
+- Revised market risk framework (FRTB)
+- Operational risk capital under the SMA
+- Credit valuation adjustment (CVA) risk framework
+- Output floor at 72.5%
+
+Estimated capital increase: 16% aggregate for the largest banks. The proposal has faced significant pushback, and the Federal Reserve is expected to issue a re-proposal with modifications to reduce the capital impact.

@@ -1,0 +1,212 @@
+NYDFS Cybersecurity Regulation: 23 NYCRR Part 500
+
+NEW YORK STATE DEPARTMENT OF FINANCIAL SERVICES
+23 NYCRR Part 500 — Cybersecurity Requirements for Financial Services Companies
+As Amended: November 1, 2023 (Second Amendment)
+
+OVERVIEW
+
+The New York Department of Financial Services (NYDFS) Cybersecurity Regulation (23 NYCRR Part 500) establishes cybersecurity requirements for financial services companies operating under DFS licenses or registrations. Originally effective March 1, 2017, the regulation was significantly amended in November 2023 to strengthen requirements in response to evolving cyber threats.
+
+The regulation is one of the most prescriptive cybersecurity frameworks applicable to financial institutions in the United States and has served as a model for other state and federal regulators.
+
+COVERED ENTITIES
+
+The regulation applies to any person operating under or required to operate under a DFS license, registration, or charter, including:
+- Banks and trust companies
+- Insurance companies
+- Licensed lenders
+- Mortgage companies
+- Money transmitters
+- Check cashers
+- Budget planners
+- Premium finance agencies
+- Holding companies of regulated entities
+
+This includes entities headquartered outside New York but operating under DFS authorization.
+
+LIMITED EXEMPTIONS
+
+Exemptions available for entities that:
+- Have fewer than 20 employees (including independent contractors)
+- Generated less than $7.5 million in gross annual revenue (NY operations) in each of the last 3 fiscal years
+- Hold less than $15 million in year-end total assets
+- Do not control nonpublic information (NPI) beyond their own
+
+Exempt entities must still comply with certain core requirements: risk assessment, cybersecurity policy, access controls, and third-party service provider security.
+
+CLASS A COMPANIES (2023 AMENDMENT)
+
+The 2023 amendments created a new category — "Class A Companies" — subject to enhanced requirements:
+- Over 2,000 employees (including affiliates) OR
+- Over $1 billion in gross annual revenue (including affiliates)
+
+Class A Companies must additionally:
+- Conduct independent audits of their cybersecurity program at least annually
+- Implement privileged access management solutions
+- Implement endpoint detection and response (EDR) solutions
+- Implement a Security Operations Center (SOC) monitoring 24/7
+- Conduct automated scanning for vulnerabilities
+- Implement password vaulting
+
+CYBERSECURITY PROGRAM REQUIREMENTS (SECTION 500.2)
+
+Each covered entity must maintain a cybersecurity program designed to protect the confidentiality, integrity, and availability of its information systems. The program must be based on the covered entity's risk assessment and must:
+
+1. Identify and assess internal and external cybersecurity risks
+2. Use defensive infrastructure and implement policies and procedures to protect information systems and NPI
+3. Detect cybersecurity events
+4. Respond to identified cybersecurity events to mitigate negative effects
+5. Recover from cybersecurity events and restore normal operations
+6. Fulfill applicable regulatory reporting obligations
+
+CYBERSECURITY POLICY (SECTION 500.3)
+
+Written cybersecurity policy must address at minimum:
+- Information security
+- Data governance and classification
+- Asset inventory and device management
+- Access controls and identity management
+- Business continuity and disaster recovery planning and resources
+- Systems operations and availability concerns
+- Systems and network security
+- Systems and network monitoring
+- Systems and application development and quality assurance
+- Physical security and environmental controls
+- Customer data privacy
+- Vendor and third-party service provider management
+- Risk assessment
+- Incident response
+
+CHIEF INFORMATION SECURITY OFFICER (SECTION 500.4)
+
+Each covered entity must designate a qualified CISO responsible for:
+- Overseeing and implementing the cybersecurity program
+- Enforcing the cybersecurity policy
+- Reporting to the entity's senior governing body at least annually
+
+The CISO report must cover:
+- Confidentiality of NPI
+- Integrity and security of information systems
+- Cybersecurity policies and procedures
+- Material cybersecurity risks
+- Overall effectiveness of the cybersecurity program
+- Material cybersecurity events during the reporting period
+- Plans for remediating identified material inadequacies
+
+The CISO may be employed by the covered entity, an affiliate, or a third-party service provider.
+
+ACCESS CONTROLS (SECTION 500.7)
+
+2023 Amendment — Enhanced Requirements:
+- Limit user access privileges to only those necessary for business functions
+- Review access privileges at least annually, and promptly remove/disable upon personnel departure
+- Implement MFA for:
+  - Remote access to the covered entity's information systems
+  - Remote access to third-party applications (including cloud-based)
+  - All privileged accounts
+  - NOTE: MFA requirement expanded in 2023 from just remote network access to all of the above
+
+VULNERABILITY MANAGEMENT (SECTION 500.5)
+
+Penetration Testing and Vulnerability Assessments:
+- Conduct annual penetration testing of information systems
+- Conduct vulnerability assessments at least twice per year (including manual or automated scanning)
+- Develop a written vulnerability management program
+- Remediate critical vulnerabilities in a timely manner based on risk assessment
+
+Class A Companies must additionally:
+- Implement automated vulnerability scanning
+- Conduct manual review of systems not covered by automated scanning
+- Establish timelines for remediation based on severity
+
+RISK ASSESSMENT (SECTION 500.9)
+
+Covered entities must conduct a risk assessment at least annually that:
+- Identifies cybersecurity risks to the entity's information systems and NPI
+- Assesses the adequacy of existing cybersecurity controls
+- Documents the rationale for the current cybersecurity program
+- Is updated whenever material changes occur to information systems or business operations
+
+The risk assessment must address:
+- Criteria for evaluation and categorization of identified risks
+- Assessment of the confidentiality, integrity, availability, and security of existing information systems and NPI
+- Requirements for mitigating identified risks
+
+THIRD-PARTY SERVICE PROVIDER SECURITY (SECTION 500.11)
+
+Written policies must address:
+- Due diligence processes for evaluating third-party cybersecurity practices
+- Minimum cybersecurity practices required of third parties
+- Contractual provisions requiring:
+  - Multi-factor authentication
+  - Encryption of NPI in transit and at rest
+  - Notification of cybersecurity events affecting the covered entity
+  - Representations and warranties regarding cybersecurity
+  - Compliance with applicable regulations
+
+Annual assessment of third-party cybersecurity risk is required.
+
+ENCRYPTION (SECTION 500.15)
+
+Covered entities must implement encryption to protect NPI:
+- In transit: Encryption required for all NPI transmitted over external networks
+- At rest: Encryption required for all NPI held or transmitted by the covered entity and its authorized third parties
+- Where encryption is infeasible: Effective alternative compensating controls may be used, approved in writing by the CISO with annual review
+
+INCIDENT RESPONSE AND NOTIFICATION (SECTION 500.16, 500.17)
+
+Incident Response Plan must address:
+- Internal processes for responding to cybersecurity events
+- Goals of the incident response plan
+- Roles, responsibilities, decision-making authority
+- External and internal communications and information sharing
+- Remediation of identified weaknesses
+- Documentation and reporting
+- Evaluation and revision after events
+
+Notification to DFS:
+- Within 72 hours of a cybersecurity event that:
+  - Requires notification to any government body, self-regulatory agency, or supervisory body
+  - Has a reasonable likelihood of materially harming any material part of normal operations
+  - Results in the deployment of ransomware within a material part of the information system
+- Within 24 hours if an extortion payment is made (2023 amendment)
+- Within 30 days after extortion payment: Written description of reasons, alternatives considered, due diligence performed
+
+GOVERNANCE REQUIREMENTS (2023 AMENDMENTS)
+
+Senior Governing Body Oversight:
+- The senior governing body (board of directors or equivalent) must:
+  - Exercise oversight of cybersecurity risk management
+  - Require the entity's executive management to develop and maintain the cybersecurity program
+  - Have sufficient understanding of cybersecurity or be advised by persons with such understanding
+  - Receive and consider the CISO's annual report
+
+CISO Independence:
+- The CISO must have adequate authority to ensure cybersecurity risks are managed
+- The CISO must report material cybersecurity issues to the senior governing body
+
+ANNUAL CERTIFICATION (SECTION 500.17(b))
+
+Each covered entity must annually submit a written statement to DFS certifying compliance with the regulation. The certification covers the prior calendar year and must be:
+- Signed by the highest-ranking executive and the CISO
+- Based on an assessment of the entity's cybersecurity program
+- Maintained and available for inspection by DFS
+
+If the entity cannot certify full compliance, it must identify areas of non-compliance, describe remedial efforts, and provide a timeline for achieving compliance.
+
+COMPLIANCE TIMELINE FOR 2023 AMENDMENTS
+
+- April 29, 2024: Most governance, reporting, and notification requirements
+- November 1, 2024: CISO reporting, risk assessment updates, vulnerability management
+- May 1, 2025: MFA expansion, access privilege management, asset inventory
+- November 1, 2025: EDR, SIEM, privileged access management (Class A), incident response plan updates
+
+ENFORCEMENT
+
+NYDFS has increasingly used enforcement actions under 23 NYCRR 500:
+- First American Title Insurance (2023): $1 million penalty for failure to maintain internal controls
+- Robinhood Crypto (2022): $30 million penalty for BSA/AML and cybersecurity violations
+- Various consent orders for failure to maintain adequate cybersecurity programs
+
+DFS examinations include comprehensive cybersecurity assessments, and identified deficiencies must be remediated under agreed timelines.

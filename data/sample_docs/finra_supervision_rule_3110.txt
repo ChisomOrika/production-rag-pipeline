@@ -1,0 +1,187 @@
+FINRA Rule 3110: Supervision Requirements for Broker-Dealers
+
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+FINRA Rules 3110, 3120, 3150
+
+OVERVIEW
+
+FINRA Rule 3110 establishes comprehensive supervision requirements for broker-dealer member firms. The rule requires each member firm to establish and maintain a system to supervise the activities of each associated person that is reasonably designed to achieve compliance with applicable securities laws, regulations, and FINRA rules.
+
+Effective supervision is the cornerstone of broker-dealer compliance. FINRA has consistently identified supervision failures as a top enforcement priority, and inadequate supervision is a factor in the majority of FINRA enforcement actions.
+
+SUPERVISORY SYSTEM REQUIREMENTS (RULE 3110(a))
+
+Each member firm must establish, maintain, and enforce written procedures to supervise the types of business in which it engages and the activities of its associated persons that are reasonably designed to achieve compliance with applicable securities laws and regulations, and with applicable FINRA rules.
+
+The supervisory system must include:
+1. Designation of a chief compliance officer (CCO)
+2. Designation of supervisory personnel for each type of business activity
+3. Assignment of each registered representative to an appropriately registered supervisor
+4. Establishment of supervisory procedures for each type of business
+5. Internal inspection requirements
+6. Review and approval processes for customer accounts and transactions
+
+WRITTEN SUPERVISORY PROCEDURES (WSPs)
+
+WSPs must address:
+- Account opening and customer identification
+- Order handling and execution
+- Suitability and Reg BI compliance
+- Supervision of customer communications (correspondence, advertising, social media)
+- Supervision of electronic communications
+- Anti-money laundering compliance
+- Insider trading prevention (information barriers)
+- Outside business activities and private securities transactions
+- Variable annuity and insurance product sales
+- Options trading supervision
+- Municipal securities activities
+- Cybersecurity and data protection
+- Books and records requirements
+- Customer complaint handling
+- Gifts, gratuities, and entertainment
+- Political contributions (MSRB Rule G-37)
+- Continuing education requirements
+
+DESIGNATED SUPERVISORY LOCATIONS
+
+Rule 3110(a)(1) requires firms to designate supervisory personnel at each Office of Supervisory Jurisdiction (OSJ). An OSJ includes any location that:
+- Supervises one or more branch offices
+- Has one or more associated persons who are market makers
+- Has customer funds or securities custody
+- Acts as a final acceptance point for customer orders
+- Has one or more associated persons who are registered under Regulation A of the Securities Act
+
+Branch Office Registration:
+Any location where one or more associated persons regularly conducts securities business must be registered as a branch office, unless an exception applies.
+
+REVIEW OF TRANSACTIONS AND CORRESPONDENCE
+
+Transaction Review:
+- Supervisory review of all transactions on a daily basis
+- Procedures to detect and investigate:
+  - Excessive trading (churning)
+  - Unsuitable recommendations
+  - Unauthorized trading
+  - Selling away (private securities transactions)
+  - Front-running or trading ahead
+  - Insider trading patterns
+  - Market manipulation
+
+Correspondence Review:
+- Review of incoming and outgoing written and electronic correspondence
+- Pre-use review of retail communications (advertisements, sales literature)
+- Supervision of social media posts and digital communications
+- Procedures for email review (lexicon-based screening, random sampling, or risk-based review)
+- Retention of all communications for required periods (3 years, first 2 years in accessible location)
+
+INTERNAL INSPECTIONS (RULE 3110(c))
+
+Firms must conduct internal inspections of:
+
+OSJs: At least annually
+- Review compliance with WSPs
+- Test supervisory controls
+- Review customer accounts for red flags
+- Evaluate adequacy of supervisory personnel
+- Document inspection findings and remedial actions
+
+Non-OSJ Branch Offices: At least every 3 years (annually for certain offices)
+- Minimum inspection cycle of 3 calendar years
+- Annual inspection if the office has heightened risk factors:
+  - Located more than a certain distance from the supervisory OSJ
+  - Customer complaints above a threshold
+  - New registered representatives or supervisors
+  - Significant changes in business activities
+
+Non-Branch Locations: Risk-based inspection schedule
+- Must be included in the firm's supervisory inspection program
+- Inspection frequency based on risk assessment
+
+REVIEW OF CUSTOMER ACCOUNTS (RULE 3110(d))
+
+Customer Account Activity Review:
+Each member must establish procedures to review customer account activity on a periodic basis, including:
+- Suitability review of account holdings relative to customer profile
+- Concentration analysis
+- Frequent trading analysis
+- Detection of potential elder financial exploitation
+- Review of discretionary account activity
+- Monitoring for patterns of unsuitable recommendations
+
+Annual Account Statements:
+Firms must verify customer account information at least annually and provide customers with an opportunity to update their investment profile.
+
+SUPERVISION OF REGISTERED REPRESENTATIVES
+
+Heightened Supervision:
+Firms must implement heightened supervisory procedures for:
+- Newly hired registered representatives with disciplinary history (reported on Form U5 or BrokerCheck)
+- Representatives with customer complaints
+- Representatives with outside business activities
+- Representatives with prior firm terminations for cause
+- Representatives operating in remote or hard-to-supervise locations
+
+The firm must document the basis for its heightened supervision procedures and the specific measures implemented.
+
+SUPERVISORY CONTROL SYSTEM (RULE 3120)
+
+Senior management must establish, maintain, and enforce supervisory control policies and procedures that:
+- Test and verify the firm's supervisory procedures
+- Create additional supervisory procedures where needed
+- Review compliance with applicable securities laws and regulations
+
+Annual Report:
+Rule 3120 requires an annual report to senior management detailing:
+- Summary of test results and significant identified exceptions
+- Changes to the supervisory system
+- Compliance assessment of supervisory control procedures
+- Recommendations for improvement
+
+REMOTE SUPERVISION (POST-COVID GUIDANCE)
+
+FINRA has provided guidance on supervising remote workers:
+- Firms may permit associated persons to work from home or other locations
+- Remote locations must be properly registered (as branch or non-branch, depending on activities)
+- Supervisory procedures must be adapted for remote work:
+  - Electronic communication monitoring tools
+  - Remote desktop monitoring capability
+  - Regular check-ins with supervised persons
+  - Enhanced review of trading activity
+  - Secure document handling procedures
+  - Physical security of client information
+
+ENFORCEMENT AND PENALTIES
+
+FINRA frequently brings enforcement actions for supervision failures:
+
+Common supervision violations:
+1. Failure to establish or maintain adequate WSPs
+2. Failure to reasonably supervise associated persons engaged in fraud or sales practice violations
+3. Failure to implement heightened supervision for at-risk representatives
+4. Inadequate review of customer communications
+5. Failure to conduct required inspections
+6. Failure to respond to red flags
+7. Inadequate supervision of outside business activities and private securities transactions
+
+Penalties range from:
+- Censures and fines ($5,000 to $1,000,000+)
+- Suspension of the firm or individual supervisors
+- Bars from the industry for egregious supervision failures
+- Restitution to affected customers
+- Disgorgement of commissions
+
+Notable supervision enforcement actions (2023-2024):
+- Multiple firms fined for failures in supervising off-channel communications (WhatsApp, text messaging, personal email)
+- SEC and FINRA combined penalties exceeding $2 billion industry-wide for recordkeeping and supervision failures related to off-channel communications
+- Individual supervisors barred for failure to act on known red flags
+
+INTERACTION WITH OTHER REGULATIONS
+
+FINRA supervision requirements intersect with:
+- SEC Rule 17a-4 (recordkeeping)
+- SEC Regulation Best Interest
+- MSRB rules (for municipal securities activities)
+- State securities regulations
+- BSA/AML compliance requirements
+- ERISA (for retirement account supervision)
+- DOL Fiduciary Rule (for rollover recommendations)

@@ -33,6 +33,16 @@ app.include_router(pipeline_router, prefix="/api/v1/pipeline", tags=["Pipeline"]
 app.include_router(monitoring_router, prefix="/api/v1/monitoring", tags=["Monitoring"])
 
 
+@app.get("/")
+def root():
+    return {
+        "service": "Production RAG Pipeline",
+        "version": "1.0.0",
+        "docs": "/docs",
+        "health": "/health",
+    }
+
+
 @app.get("/health")
 def health_check():
     return {"status": "healthy", "service": "rag-pipeline"}

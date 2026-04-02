@@ -1,0 +1,165 @@
+MiFID II / MiFIR: European Financial Markets Regulation
+
+EUROPEAN SECURITIES AND MARKETS AUTHORITY (ESMA)
+Directive 2014/65/EU (MiFID II) and Regulation (EU) No 600/2014 (MiFIR)
+Effective: January 3, 2018
+
+OVERVIEW
+
+The Markets in Financial Instruments Directive II (MiFID II) and the Markets in Financial Instruments Regulation (MiFIR) represent the most comprehensive reform of European financial markets regulation. Together, they establish the regulatory framework for investment firms, trading venues, and intermediaries across the European Economic Area (EEA).
+
+MiFID II replaces the original MiFID (2004) and significantly expands the scope of regulation to address market structure deficiencies exposed during the 2008 financial crisis, increase transparency, strengthen investor protection, and improve the functioning of financial markets.
+
+KEY OBJECTIVES
+
+1. Increase market transparency (pre-trade and post-trade)
+2. Strengthen investor protection
+3. Improve market structure and competition between trading venues
+4. Address technological developments (algorithmic and high-frequency trading)
+5. Enhance regulatory powers and supervisory convergence
+
+SCOPE AND APPLICATION
+
+MiFID II applies to:
+- Investment firms authorized in EEA member states
+- Market operators and trading venues (regulated markets, MTFs, OTFs)
+- Data reporting service providers (APAs, CTPs, ARMs)
+- Third-country firms accessing EEA markets
+- Tied agents of investment firms
+
+Financial Instruments covered:
+- Transferable securities (equities, bonds)
+- Money market instruments
+- Units in collective investment schemes (UCITS, AIFs)
+- Derivatives (futures, options, swaps, CFDs)
+- Emission allowances
+- Commodity derivatives
+
+MARKET STRUCTURE
+
+Trading Venue Categories:
+1. Regulated Markets (RM): Traditional stock exchanges (e.g., Euronext, Deutsche Börse, London Stock Exchange)
+2. Multilateral Trading Facilities (MTF): Alternative trading venues operating under lighter regulation
+3. Organised Trading Facilities (OTF): New category introduced by MiFID II for non-equity instruments, with operator discretion in execution
+4. Systematic Internalisers (SI): Investment firms that deal on own account on an organized, frequent, and systematic basis
+
+Trading Obligation:
+- Shares admitted to trading on a regulated market must be traded on an RM, MTF, SI, or equivalent third-country venue
+- Certain standardized OTC derivatives must be traded on an RM, MTF, or OTF (linked to EMIR clearing obligation)
+
+Dark Pool Restrictions:
+- Reference price waiver: Trades at the midpoint of the best bid/offer on the primary market
+- Negotiated trade waiver: Large-in-scale transactions
+- Double Volume Cap (DVC): Limits dark trading in individual instruments to 4% on any single venue and 8% across all EU venues (in a 12-month period)
+- If caps are breached: 6-month suspension of the relevant waiver for that instrument
+
+TRANSPARENCY REQUIREMENTS
+
+Pre-Trade Transparency:
+Equity: Trading venues must publish current bid/offer prices and depth of trading interest
+Non-Equity: Trading venues must publish bid/offer prices for bonds, structured finance products, derivatives, and emission allowances
+
+Post-Trade Transparency:
+- Real-time publication of price, volume, and time of executed transactions
+- Deferrals available for large-in-scale transactions and illiquid instruments
+- Systematic internalisers must publish quotes in liquid instruments
+
+Consolidated Tape Provider (CTP):
+MiFID II envisioned a consolidated tape aggregating post-trade data across all venues, but no commercial CTP has been established. The European Commission proposed mandating a CTP in the MiFID III/MiFIR review.
+
+INVESTOR PROTECTION
+
+Client Classification:
+- Retail clients: Highest level of protection
+- Professional clients: Reduced protections (assumed to have experience and knowledge)
+- Eligible counterparties: Minimal protection (institutional-to-institutional transactions)
+
+Suitability and Appropriateness:
+- Suitability assessment required for investment advice and portfolio management
+- Appropriateness assessment required for complex products sold on an execution-only basis
+- No assessment required for non-complex products on execution-only basis
+
+Product Governance:
+- Manufacturers must define target markets for financial products
+- Distributors must ensure products are distributed to the identified target market
+- Negative target market must be identified
+- Ongoing monitoring of product distribution
+
+Cost Transparency:
+- Ex-ante (before transaction): Full disclosure of all costs and charges, including product costs and service costs
+- Ex-post (annual): Detailed report of actual costs incurred
+- Costs must be expressed both in monetary terms and as a percentage
+- Impact of costs on return must be illustrated
+
+Inducements:
+- Independent investment advisers and portfolio managers: May NOT accept inducements (commissions, fees) from third parties
+- Non-independent advisers: May accept inducements only if they enhance quality of service and are clearly disclosed
+- Research must be unbundled from execution (research payments must be separate)
+
+RESEARCH UNBUNDLING
+
+One of the most impactful MiFID II provisions:
+- Investment firms must pay for third-party research separately from execution/brokerage commissions
+- Research payments can be made from:
+  - The firm's own P&L
+  - A Research Payment Account (RPA) funded by client charges with strict governance
+- Impact: Significant reduction in research spending, consolidation of research providers, reduced coverage of small/mid-cap companies
+- 2024 Amendment: EU proposed allowing rebundling of research and execution for SME research to address the coverage gap
+
+ALGORITHMIC AND HIGH-FREQUENCY TRADING
+
+Requirements for firms using algorithmic trading:
+- Notification to the competent authority
+- Effective systems and risk controls (kill switches, throttling)
+- Appropriate testing of algorithms before deployment and ongoing monitoring
+- Business continuity arrangements
+- Record-keeping of all algorithmic orders (including canceled and modified orders)
+
+High-Frequency Trading (HFT) specific requirements:
+- Market making obligations when using HFT strategies
+- Firms must be authorized as investment firms
+- Order-to-trade ratio monitoring
+- Tick size regime to prevent excessively small price increments
+
+Trading venue obligations:
+- Circuit breakers and volatility controls
+- Ability to cancel, vary, or correct erroneous transactions
+- Co-location services offered on a non-discriminatory basis
+- Minimum tick sizes
+
+POSITION LIMITS AND REPORTING
+
+Commodity Derivatives:
+- ESMA and national competent authorities set position limits on commodity derivatives
+- Position limits apply to net positions held by any person in commodity derivatives traded on trading venues and economically equivalent OTC contracts
+- Position reporting requirements for all commodity derivatives
+- Exemptions for hedging positions (bona fide commercial hedging)
+
+TRANSACTION REPORTING
+
+Investment firms must report transactions to competent authorities:
+- Reports must be submitted by T+1 (end of following working day)
+- 65 data fields per transaction report
+- Reports submitted through Approved Reporting Mechanisms (ARMs)
+- Must include: client identification, decision maker, execution details, instrument identification (ISIN), price, quantity, venue, timestamps
+
+THIRD-COUNTRY ACCESS
+
+Third-country firms accessing EU markets:
+- Equivalence decisions by the European Commission
+- Registration with ESMA for cross-border services to professional clients and eligible counterparties
+- Branch authorization by member states for services to retail clients
+- Reverse solicitation exemption (narrowly interpreted)
+
+Post-Brexit: UK firms lost passporting rights and must comply with individual member state requirements or rely on equivalence decisions (limited equivalence granted to date).
+
+MiFID III / MiFIR REVIEW (PROPOSED)
+
+The European Commission proposed revisions in 2024:
+1. Establishment of a mandatory consolidated tape for equities, bonds, and derivatives
+2. Refinements to the double volume cap mechanism
+3. Simplification of the SI regime
+4. Ban on payment for order flow (PFOF) across the EU (effective 2026)
+5. Allowing rebundling of research and execution for SME research
+6. Streamlined reporting requirements
+7. Enhanced supervisory convergence through ESMA

@@ -1,0 +1,175 @@
+Regulation Crowdfunding (Reg CF): Securities-Based Crowdfunding Framework
+
+SECURITIES AND EXCHANGE COMMISSION
+17 CFR Part 227 — Regulation Crowdfunding
+As Amended March 15, 2021
+
+OVERVIEW
+
+Regulation Crowdfunding (Reg CF) implements Title III of the JOBS Act (Jumpstart Our Business Startups Act of 2012), creating an exemption from registration under the Securities Act that permits eligible companies to offer and sell securities through SEC-registered intermediaries (funding portals or broker-dealers) using the internet.
+
+Reg CF was designed to help smaller companies raise capital while providing investor protections. The 2021 amendments to Reg CF significantly expanded the framework's utility.
+
+OFFERING LIMITS
+
+Maximum Offering Amount: $5 million in a 12-month period (raised from $1.07 million in the 2021 amendments)
+
+This represents a significant increase that makes Reg CF a viable fundraising mechanism for early-stage companies, previously limited to very small raises.
+
+INVESTOR LIMITS
+
+Investment limits apply per investor across all Reg CF offerings in a 12-month period:
+
+If annual income OR net worth is less than $124,000:
+- Maximum investment: Greater of $2,500 or 5% of the lesser of annual income or net worth
+
+If both annual income AND net worth are $124,000 or more:
+- Maximum investment: 10% of the lesser of annual income or net worth (not to exceed $124,000)
+
+Accredited Investors: No investment limit applies.
+
+Investors must self-certify their income and net worth. Intermediaries must provide investor education materials but are not required to independently verify investor claims.
+
+ELIGIBLE ISSUERS
+
+Companies eligible to use Reg CF must:
+- Be organized under U.S. or state law
+- Not be an SEC reporting company
+- Not be an investment company or excluded from the Investment Company Act
+- Not have failed to comply with Reg CF annual reporting requirements in the prior 2 years
+- Not be a blank check company
+- Not be subject to disqualification under Rule 503(a) of Regulation Crowdfunding
+
+Ineligible issuers:
+- Foreign private issuers
+- SEC reporting companies
+- Investment companies
+- Companies that have sold securities under Reg CF and failed to file required annual reports
+- Companies with no specific business plan or whose plan is to merge with unidentified companies
+
+TYPES OF SECURITIES
+
+Reg CF permits offering of various types of securities:
+- Common stock
+- Preferred stock
+- Convertible notes (SAFEs — Simple Agreements for Future Equity)
+- Revenue participation agreements
+- Debt securities
+- LLC membership interests
+
+SAFEs have become the most common instrument used in Reg CF offerings, particularly for early-stage companies that have not yet established a valuation.
+
+INTERMEDIARY REQUIREMENTS
+
+All Reg CF offerings must be conducted through a registered intermediary:
+
+Funding Portals (registered with SEC and FINRA):
+- Cannot offer investment advice or recommendations
+- Cannot solicit purchases, sales, or offers of securities
+- Cannot hold or manage investor funds or securities
+- Must provide educational materials to investors
+- Must take measures to reduce fraud risk
+- Must make issuer information publicly available on the platform
+- Must provide communication channels for investors and issuers
+
+Broker-Dealers (registered with SEC and FINRA):
+- May provide investment advice and recommendations
+- May handle investor funds (through a qualified third party or omnibus account)
+- Subject to broker-dealer regulatory requirements
+- Must comply with Reg CF intermediary obligations
+
+DISCLOSURE REQUIREMENTS
+
+Issuers must file Form C with the SEC and provide:
+
+Issuer Information:
+- Legal name, jurisdiction of organization, date of formation
+- Physical address, website URL
+- Names of directors, officers, and 20%+ beneficial owners
+- Business description and business plan
+- Description of the issuer's financial condition
+- Use of proceeds
+- Target offering amount and deadline
+- Price of securities or method for determining price
+- Ownership and capital structure
+
+Financial Statements:
+- Offerings up to $124,000: Financial statements certified by the principal executive officer, and the issuer's tax returns (if available), reviewed by an independent public accountant
+- Offerings $124,001 to $618,000: Financial statements reviewed by an independent public accountant
+- Offerings $618,001 to $5 million: Financial statements audited by an independent public accountant
+- First-time Reg CF issuers raising $618,001 to $1,235,000: May provide reviewed (rather than audited) financials
+
+Annual Reports:
+Issuers must file annual reports on Form C-AR within 120 days of fiscal year end. Annual reports must include updated financial statements and information about the issuer's business and financial condition.
+
+Termination of Reporting:
+Reporting obligations terminate when:
+- The issuer is required to file reports under the Exchange Act
+- The issuer has filed at least 3 annual reports and has fewer than 300 holders of record
+- The issuer has filed at least 1 annual report and has total assets of $10 million or less
+- The issuer or another party repurchases all securities issued under Reg CF
+- The issuer dissolves
+
+INVESTOR PROTECTIONS
+
+Cancellation Rights:
+- Investors may cancel their investment commitment for any reason up to 48 hours before the offering deadline
+- If there is a material change to the offering terms or issuer disclosure, investors must reconfirm within 5 business days or the investment is canceled
+
+Resale Restrictions:
+- Securities purchased under Reg CF cannot be resold for one year, except transfers to:
+  - The issuer
+  - An accredited investor
+  - A family member
+  - In connection with death, divorce, or similar circumstances
+  - SEC-registered transactions
+
+ADVERTISING AND COMMUNICATIONS
+
+Issuers may only advertise the offering through limited "tombstone" notices that direct potential investors to the intermediary's platform. The notice may include:
+- Statement that the issuer is conducting an offering
+- Terms of the offering
+- Contact information
+- Brief description of the issuer's business
+- A link to the intermediary's platform
+
+All other communications about the offering must occur through the intermediary's platform communication channels.
+
+2021 AMENDMENTS: KEY CHANGES
+
+1. Raised offering limit from $1.07 million to $5 million
+2. Permitted use of Special Purpose Vehicles (SPVs) to aggregate investors
+3. Allowed "testing the waters" communications before filing Form C
+4. Eliminated the requirement for audited financial statements for first-time issuers raising up to $1,235,000
+5. Harmonized Reg CF with other exempt offerings (Reg A, Reg D)
+6. Permitted co-investment by the intermediary alongside investors
+
+MARKET DATA AND TRENDS
+
+Reg CF market statistics (2024):
+- Total capital raised since inception: Over $3.5 billion
+- Number of successful offerings: Over 7,500
+- Average raise: Approximately $350,000-$450,000
+- Median raise: Approximately $150,000-$200,000
+- Most common industries: Technology, food & beverage, consumer products, fintech, cannabis (state-legal)
+- Most common instrument: SAFE (approximately 55% of offerings)
+- Average number of investors per offering: 400-600
+- Leading platforms: Wefunder, Republic, StartEngine
+
+COMPLIANCE CONSIDERATIONS
+
+For issuers:
+1. Ensure compliance with state blue sky laws (federal preemption covers the offering itself, but states may enforce antifraud provisions)
+2. Maintain accurate books and records
+3. File required annual reports timely
+4. Monitor investor communications on the platform
+5. Comply with the bad actor disqualification provisions
+6. Ensure proper use of proceeds as disclosed
+
+For intermediaries:
+1. Register with SEC and FINRA (funding portals) or maintain broker-dealer registration
+2. Conduct due diligence on issuers (background checks, securities enforcement history)
+3. Provide investor education materials
+4. Maintain communication channels
+5. Ensure compliance with AML/KYC requirements
+6. Report to SEC as required

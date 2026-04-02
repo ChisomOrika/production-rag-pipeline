@@ -1,0 +1,146 @@
+The Volcker Rule: Restrictions on Proprietary Trading and Fund Activities
+
+OFFICE OF THE COMPTROLLER OF THE CURRENCY / FEDERAL RESERVE / FDIC / SEC / CFTC
+12 CFR Part 44 (OCC), 12 CFR Part 248 (FRB), 12 CFR Part 351 (FDIC)
+17 CFR Part 255 (SEC), 17 CFR Part 75 (CFTC)
+
+STATUTORY BASIS
+
+The Volcker Rule, codified as Section 13 of the Bank Holding Company Act (12 U.S.C. 1851), was enacted as Section 619 of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010. Named after former Federal Reserve Chairman Paul Volcker, the rule addresses the risks posed by banking entities engaging in speculative trading activities.
+
+CORE PROHIBITIONS
+
+Prohibition 1: Proprietary Trading
+Banking entities are generally prohibited from engaging in proprietary trading — defined as engaging as principal for the trading account of the banking entity in any purchase or sale of financial instruments.
+
+A "trading account" includes positions held for:
+- Short-term resale
+- Benefiting from short-term price movements
+- Realizing short-term arbitrage profits
+- Hedging positions described above
+
+The 2019 amendments simplified the trading account definition by:
+- Establishing a rebuttable presumption that positions held for fewer than 60 days are trading account positions
+- Positions held for 60 days or longer are presumed NOT to be trading account positions
+- Eliminating the "purpose test" and relying primarily on the accounting-based and dealer tests
+
+Prohibition 2: Covered Fund Activities
+Banking entities are generally prohibited from:
+- Acquiring or retaining an ownership interest in, or sponsoring, a covered fund (hedge fund or private equity fund)
+- Entering into certain transactions with covered funds (extensions of credit, asset purchases, guarantees)
+
+PERMITTED ACTIVITIES AND EXEMPTIONS
+
+Market Making:
+Banking entities may engage in market-making activities if:
+- The trading desk routinely stands ready to buy and sell the financial instruments it trades
+- The amount and types of financial instruments held are designed to not exceed reasonably expected near-term demands of clients
+- Compensation arrangements are designed not to reward proprietary risk-taking
+- The entity has implemented internal compliance procedures including risk limits
+
+Underwriting:
+Banking entities may engage in underwriting activities for securities distributions if:
+- The trading desk's underwriting position is related to a distribution
+- The amount of securities held is designed to not exceed reasonably expected near-term demands
+- Appropriate compliance procedures are in place
+
+Risk-Mitigating Hedging:
+Banking entities may engage in hedging activities if:
+- The hedge reduces or mitigates specific, identifiable risks
+- It does not give rise to significant new risks
+- The entity documents the hedging relationship at inception
+- Ongoing monitoring of the hedging activity is conducted
+- Compensation arrangements do not reward proprietary risk-taking
+
+Trading in Government Obligations:
+Exemptions for trading in:
+- U.S. government, agency, and GSE obligations
+- State and municipal obligations
+- Foreign sovereign debt (subject to certain conditions)
+
+De Minimis Fund Activities:
+Banking entities may invest in covered funds if:
+- The investment in any single fund does not exceed 3% of the fund's total ownership interests
+- The aggregate of all covered fund investments does not exceed 3% of the entity's Tier 1 capital
+- The entity does not guarantee the obligations of the fund
+
+COMPLIANCE PROGRAM REQUIREMENTS
+
+The Volcker Rule establishes tiered compliance requirements based on trading assets and liabilities:
+
+Tier 1 — Significant Trading Entities ($20 billion+ in trading assets/liabilities):
+- Comprehensive compliance program with detailed policies
+- Internal controls and independent testing
+- CEO attestation of compliance
+- Enhanced metrics reporting (7 quantitative metrics)
+- Dedicated compliance staff
+
+Tier 2 — Moderate Trading Entities ($1 billion to $20 billion):
+- Simplified compliance program
+- CEO attestation
+- Standard metrics reporting
+
+Tier 3 — Limited Trading Entities (under $1 billion):
+- Presumption of compliance with proprietary trading restrictions
+- No metrics reporting required
+- Simplified program requirements
+
+QUANTITATIVE METRICS (for significant trading entities)
+
+Banking entities must calculate and report:
+1. Risk and Position Limits and Usage
+2. Risk Factor Sensitivities
+3. Value-at-Risk (VaR)
+4. Stress VaR
+5. Comprehensive Profit and Loss Attribution
+6. Inventory Turnover
+7. Inventory Aging
+8. Customer-Facing Trade Ratio (for market-making)
+
+COVERED FUNDS: DEFINITION AND EXCLUSIONS
+
+A "covered fund" generally includes any entity that would be an investment company under the Investment Company Act but for Section 3(c)(1) or 3(c)(7) exemptions.
+
+Exclusions from the covered fund definition:
+- Foreign public funds
+- Wholly-owned subsidiaries
+- Joint ventures (limited to 10 or fewer co-venturers)
+- Loan securitizations
+- Small business investment companies (SBICs)
+- Public welfare investment funds
+- Registered investment companies
+- Foreign pension or retirement funds
+- Insurance company separate accounts
+- Credit funds (added in 2020 amendments — significant expansion)
+
+2020 AMENDMENTS: KEY CHANGES
+
+The 2020 covered fund amendments:
+1. Permitted banking entities to acquire ownership interests in venture capital funds, credit funds, family wealth management vehicles, and customer facilitation vehicles
+2. Narrowed the definition of "ownership interest" to provide greater certainty
+3. Provided additional flexibility for foreign activities by foreign banking entities
+4. Clarified the meaning of "solely outside the United States" for foreign fund exemptions
+5. Modified the calculation of fund investment limits
+
+ENFORCEMENT AND PENALTIES
+
+The five regulatory agencies share enforcement responsibility:
+- OCC: National banks and federal savings associations
+- Federal Reserve: Bank holding companies and state member banks
+- FDIC: State nonmember banks
+- SEC: Securities broker-dealers and investment advisers
+- CFTC: Futures commission merchants and swap dealers
+
+Notable enforcement actions:
+- Goldman Sachs (2022): $4 million penalty for compliance program failures
+- Citigroup (2019): $25 million OCC penalty for metrics calculation errors
+- JP Morgan Chase: Various remedial actions related to hedging documentation
+
+INTERACTION WITH OTHER REGULATIONS
+
+The Volcker Rule interacts with:
+- Basel III capital requirements (trading book treatment)
+- SEC market-making regulations (Regulation SHO, Regulation ATS)
+- CFTC swap dealer requirements
+- Bank Holding Company Act activity restrictions
+- International equivalents (EU MiFID II restrictions, UK ring-fencing)

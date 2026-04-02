@@ -1,0 +1,179 @@
+Federal Reserve Stress Testing: CCAR and DFAST Framework
+
+BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM
+12 CFR Part 225 — Regulation Y
+12 CFR Part 252 — Enhanced Prudential Standards (Regulation YY)
+
+OVERVIEW
+
+The Federal Reserve conducts annual stress tests of the largest bank holding companies and U.S. intermediate holding companies of foreign banking organizations to assess whether these firms have sufficient capital to absorb losses during stressful conditions while continuing to meet their obligations. The stress testing framework includes the Comprehensive Capital Analysis and Review (CCAR) and the Dodd-Frank Act Stress Tests (DFAST).
+
+CCAR evaluates the capital planning processes and capital adequacy of the largest firms, while DFAST provides a forward-looking assessment of capital sufficiency under hypothetical stress scenarios.
+
+APPLICABILITY
+
+The stress testing requirements apply to:
+- Bank holding companies (BHCs) with $100 billion or more in total consolidated assets
+- U.S. intermediate holding companies (IHCs) of foreign banking organizations with $100 billion+ in U.S. assets
+- Certain nonbank financial companies designated by the FSOC
+
+As of 2024, approximately 31 firms are subject to the annual supervisory stress test.
+
+Tiered requirements under the tailoring framework:
+- Category I (U.S. G-SIBs): Full CCAR/DFAST, annual cycle
+- Category II ($700 billion+ assets or $75 billion+ cross-jurisdictional activity): Annual stress test
+- Category III ($250-$700 billion assets): Biennial stress test (every other year)
+- Category IV ($100-$250 billion assets): Biennial stress test, simplified requirements
+
+STRESS TEST SCENARIOS
+
+The Federal Reserve develops three macroeconomic scenarios annually:
+
+Baseline Scenario:
+- Reflects consensus economic forecasts
+- Serves as a benchmark for measuring stress impacts
+- Generally reflects a continuation of current economic trends
+
+Severely Adverse Scenario:
+- Models a severe global recession
+- Key variables typically include:
+  - Real GDP decline of 6-8%
+  - Unemployment rate rising to 10%+
+  - Significant decline in equity prices (40-55%)
+  - Decline in housing prices (25-35%)
+  - Widening of corporate bond spreads
+  - Interest rate shocks (varies by scenario)
+  - International economic stress
+
+The 2024 severely adverse scenario included:
+- Unemployment peaking at 10.0%
+- Real GDP declining 8.5% from peak
+- Equity prices declining 45%
+- Housing prices declining 36%
+- Commercial real estate prices declining 40%
+- Corporate BBB spread widening to 5.8%
+- 10-year Treasury yield falling to 0.8%
+
+Exploratory Scenarios (introduced in 2024):
+Beginning in 2024, the Federal Reserve introduced exploratory analysis scenarios to examine risks not fully captured by the standard scenarios:
+- Exploratory market shock: Tests resilience to specific market dislocations
+- These results are published but do NOT affect capital requirements
+- Designed to enhance risk identification and management
+
+STRESS TEST MECHANICS
+
+Pre-Provision Net Revenue (PPNR):
+Models project revenue and expenses under stress:
+- Net interest income under rate scenarios
+- Noninterest income declines (fee income, trading revenue, investment banking)
+- Noninterest expense increases (legal costs, remediation)
+
+Credit Losses:
+Models estimate losses across loan portfolios:
+- Residential mortgages (first lien, junior lien, HELOC)
+- Commercial and industrial loans
+- Commercial real estate loans
+- Credit card loans
+- Auto loans
+- Other consumer loans
+- Securities (AFS and HTM impairment)
+
+Operational and Trading Losses:
+- Global market shock (for firms with large trading operations)
+- Counterparty default scenario (largest counterparty failure)
+- Operational-risk event losses
+
+Capital Depletion:
+The test measures capital ratio trajectories under stress:
+- Minimum CET1 ratio must remain above 4.5%
+- Minimum Tier 1 capital ratio above 6.0%
+- Minimum total capital ratio above 8.0%
+- Minimum Tier 1 leverage ratio above 4.0%
+- Minimum SLR above 3.0% (for applicable firms)
+
+STRESS CAPITAL BUFFER (SCB)
+
+The SCB, effective since October 2020, integrates stress test results into ongoing capital requirements:
+
+SCB = Max(Stressed CET1 decline + planned dividends, 2.5%)
+
+Calculation:
+1. Start with the firm's CET1 ratio
+2. Subtract the minimum stressed CET1 ratio from the stress test
+3. Add four quarters of planned common stock dividends
+4. The resulting SCB (floored at 2.5%) becomes the firm's buffer requirement
+
+The SCB replaces the fixed 2.5% capital conservation buffer for stress-tested firms, making capital requirements more firm-specific and risk-sensitive.
+
+2024 SCB results ranged from:
+- Minimum: 2.5% (floor, for several firms)
+- Maximum: 6.5% (for firms with higher stress losses)
+- Average for G-SIBs: ~3.5%
+
+CAPITAL PLANNING AND DISTRIBUTION
+
+Firms must demonstrate they can maintain capital above minimum requirements through the stress test horizon while executing planned capital actions:
+
+Capital distributions include:
+- Common stock dividends
+- Share repurchases
+- Preferred stock dividends and redemptions
+
+Distribution restrictions:
+If a firm's actual capital ratios fall into the SCB buffer zone, automatic restrictions apply to capital distributions:
+- Maximum payout amount decreases as the buffer erodes
+- At 0% buffer remaining: No distributions permitted
+- Graduated restrictions between full buffer and zero
+
+Firms typically manage capital distributions well above the buffer to maintain flexibility.
+
+2024 STRESS TEST RESULTS (AGGREGATE)
+
+Key aggregate results from the 2024 supervisory stress test:
+
+Aggregate CET1 ratio:
+- Starting: 12.7%
+- Minimum under stress: 9.9%
+- Decline: 2.8 percentage points
+
+Aggregate projected losses:
+- Total losses: $685 billion
+- Credit card losses: $175 billion (highest loss rate category at ~17%)
+- Commercial real estate losses: $65 billion
+- Residential mortgage losses: $40 billion
+- Commercial and industrial: $85 billion
+- Trading and counterparty: $95 billion
+- Other losses: $225 billion
+
+The aggregate results showed that the banking system remained well-capitalized under severe stress, though individual firm results varied significantly.
+
+CRITICISM AND REFORM PROPOSALS
+
+Transparency concerns:
+- Federal Reserve publishes limited model methodology details
+- Firms cannot fully replicate supervisory models
+- "Black box" criticism from industry participants
+- 2024: Federal Reserve announced plans to increase transparency of stress test models
+
+Procyclicality:
+- SCB changes year-to-year can create capital planning uncertainty
+- Stress scenarios may amplify cyclical effects
+- Industry has advocated for multi-year averaging of SCB
+
+Model risk:
+- Supervisory models may not capture all risks
+- Limited ability for firms to challenge model assumptions
+- Exploratory scenarios address some of these concerns
+
+Legal challenges:
+- Industry groups have raised concerns about the legal basis for stress testing requirements
+- Questions about whether stress test models constitute "rules" subject to notice-and-comment rulemaking
+- Michael Barr's 2024 proposal to increase transparency through model disclosure
+
+INTERACTION WITH OTHER CAPITAL FRAMEWORKS
+
+- Basel III Endgame: Potential overlap and double-counting of risks
+- G-SIB surcharge: Additive to stress test capital requirements
+- TLAC/LTD requirements: Resolution-related capital on top of going-concern requirements
+- Resolution planning: Stress test results inform resolution planning assumptions
+- International coordination: Other jurisdictions conduct similar stress tests (EBA in EU, PRA in UK, APRA in Australia)

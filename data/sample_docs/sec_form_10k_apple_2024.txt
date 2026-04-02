@@ -1,0 +1,161 @@
+APPLE INC. — FORM 10-K (Annual Report)
+Filed with the Securities and Exchange Commission
+For the Fiscal Year Ended September 28, 2024
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM 10-K — ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Commission File Number: 001-36743
+Apple Inc. (Exact name of registrant)
+One Apple Park Way, Cupertino, California 95014
+
+PART I
+
+ITEM 1. BUSINESS
+
+Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The Company also sells a variety of related services.
+
+Products:
+iPhone — iPhone 16 lineup launched September 2024, featuring Apple Intelligence (on-device AI), improved cameras, and the A18/A18 Pro chips. iPhone revenue for FY2024: $201.2 billion (approximately 52% of total revenue).
+
+Mac — MacBook Air, MacBook Pro, iMac, Mac mini, Mac Studio, and Mac Pro, powered by Apple silicon (M3, M3 Pro, M3 Max, M3 Ultra, M4 chips). Mac revenue for FY2024: $29.4 billion.
+
+iPad — iPad Pro (M4), iPad Air (M2), iPad (10th generation), iPad mini (A17 Pro). iPad revenue for FY2024: $26.7 billion.
+
+Wearables, Home and Accessories — Apple Watch (Series 10, Ultra 2), AirPods (4th generation, Pro 2, Max), Apple Vision Pro, HomePod, Apple TV, and accessories. Revenue for FY2024: $37.0 billion.
+
+Services:
+Apple Services include the App Store, Apple Music, Apple TV+, iCloud, Apple Pay, AppleCare, Apple Arcade, Apple Fitness+, Apple News+, and Apple Card. Services revenue for FY2024: $96.2 billion (approximately 25% of total revenue, highest margin segment).
+
+ITEM 1A. RISK FACTORS
+
+The Company faces significant risks including:
+
+Market and Competition Risks:
+- Intense competition in all product categories
+- Risk of market saturation in smartphones, particularly in developed markets
+- Dependence on new product introductions and transitions
+- Competitive pressure from AI-native devices and services
+- Risk of commoditization in hardware categories
+
+Supply Chain Risks:
+- Concentration of manufacturing in a limited number of countries (primarily China, India, Vietnam)
+- Single or limited source suppliers for critical components
+- Risks from geopolitical tensions (US-China trade relations, Taiwan Strait)
+- Component shortages and supply chain disruptions
+- Increasing costs of components and manufacturing
+
+Regulatory and Legal Risks:
+- Ongoing antitrust scrutiny globally (EU Digital Markets Act, US DOJ antitrust lawsuit)
+- EU Digital Markets Act compliance requirements as designated "gatekeeper" for iOS, App Store, Safari
+- Japan, South Korea, India regulations requiring alternative app distribution
+- App Store commission structure facing global regulatory pressure
+- Privacy regulations (GDPR, state privacy laws, international data localization requirements)
+- Tax audits and assessments in multiple jurisdictions
+
+Technology and AI Risks:
+- Rapid evolution of artificial intelligence and machine learning capabilities
+- Risk of falling behind competitors in AI integration
+- Apple Intelligence adoption and competitive positioning
+- Data privacy constraints limiting AI training data availability
+- Dependence on third-party AI partnerships (OpenAI for ChatGPT integration)
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+Key Financial Metrics (Fiscal Year 2024):
+- Total Net Revenue: $390.5 billion (up 2% from $383.3 billion in FY2023)
+- Cost of Sales: $214.1 billion
+- Gross Margin: $176.4 billion (45.2% gross margin)
+- Operating Income: $123.2 billion
+- Net Income: $101.9 billion
+- Diluted Earnings Per Share: $6.64
+- Cash and Cash Equivalents: $29.9 billion
+- Marketable Securities: $71.3 billion
+- Total Cash Position: $162.1 billion (including short and long-term investments)
+- Total Debt: $97.3 billion
+- Net Cash Position: $64.8 billion
+- Share Repurchases (FY2024): $94.9 billion
+- Dividends Paid (FY2024): $15.2 billion
+- Capital Expenditures: $9.9 billion
+- R&D Expense: $31.4 billion (8.0% of revenue)
+
+Segment Performance (FY2024):
+Americas: $167.0 billion (42.8%)
+Europe: $101.3 billion (25.9%)
+Greater China: $67.0 billion (17.2%)
+Japan: $24.3 billion (6.2%)
+Rest of Asia Pacific: $30.9 billion (7.9%)
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+Revenue Analysis:
+Total revenue increased 2% year-over-year, driven by growth in Services (+13%) and Mac (+2%), partially offset by declines in iPad (-2%) and Wearables (-7%). iPhone revenue was approximately flat year-over-year.
+
+Greater China revenue declined 5% due to increased competition from Huawei and other domestic manufacturers, currency headwinds, and a slower economic recovery. This represents a key strategic concern, as China accounts for approximately 17% of total revenue.
+
+Services continues to be the fastest-growing and highest-margin segment, with over 1 billion paid subscriptions across the Apple ecosystem. Services gross margin was approximately 74%, compared to 37% for Products.
+
+Gross Margin:
+Product gross margin expanded to 37.0% from 36.5%, driven by product mix and component cost reductions, partially offset by foreign exchange headwinds. Services gross margin was 74.0%, approximately flat year-over-year.
+
+Operating Expenses:
+R&D expense increased 5% to $31.4 billion, primarily reflecting investments in Apple Intelligence, Apple Vision Pro, and semiconductor design. SG&A was flat at $25.0 billion.
+
+Capital Return Program:
+The Company returned $110.1 billion to shareholders through $94.9 billion in share repurchases and $15.2 billion in dividends. The Board authorized an additional $110 billion share repurchase program in May 2024.
+
+ITEM 8. FINANCIAL STATEMENTS (SELECTED)
+
+Consolidated Balance Sheet (September 28, 2024):
+Assets:
+- Current Assets: $152.6 billion
+  - Cash and cash equivalents: $29.9 billion
+  - Short-term marketable securities: $35.2 billion
+  - Accounts receivable: $66.2 billion
+  - Inventories: $7.3 billion
+  - Other current assets: $14.0 billion
+- Non-Current Assets: $212.5 billion
+  - Long-term marketable securities: $97.0 billion
+  - Property, plant and equipment: $44.5 billion
+  - Goodwill: $0 billion
+  - Other non-current assets: $71.0 billion
+- Total Assets: $365.1 billion
+
+Liabilities:
+- Current Liabilities: $153.6 billion
+  - Accounts payable: $68.8 billion
+  - Deferred revenue: $8.2 billion
+  - Commercial paper: $9.9 billion
+  - Current portion of long-term debt: $10.9 billion
+  - Other current liabilities: $55.8 billion
+- Non-Current Liabilities: $145.0 billion
+  - Long-term debt: $86.4 billion
+  - Other non-current liabilities: $58.6 billion
+- Total Liabilities: $298.6 billion
+
+Stockholders' Equity:
+- Total Stockholders' Equity: $66.5 billion
+
+Consolidated Statement of Operations (FY2024):
+- Net sales: $390.5 billion
+- Cost of sales: $214.1 billion
+- Gross margin: $176.4 billion
+- Research and development: $31.4 billion
+- Selling, general and administrative: $25.0 billion
+- Total operating expenses: $56.4 billion
+- Operating income: $120.0 billion
+- Other income/(expense): $3.2 billion
+- Income before provision for income taxes: $123.2 billion
+- Provision for income taxes: $21.3 billion
+- Net income: $101.9 billion
+
+Cash Flow Statement (FY2024):
+- Cash from operations: $118.3 billion
+- Cash used in investing: ($3.7 billion)
+- Cash used in financing: ($117.2 billion)
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+Management's assessment: Internal control over financial reporting is effective as of September 28, 2024. The Company's independent registered public accounting firm, Ernst & Young LLP, has issued an unqualified opinion on the effectiveness of internal controls.

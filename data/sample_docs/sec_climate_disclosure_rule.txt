@@ -1,0 +1,131 @@
+SEC Climate-Related Disclosure Rule
+
+SECURITIES AND EXCHANGE COMMISSION
+17 CFR Parts 210, 229, 230, 232, 239, and 249
+Release Nos. 33-11275; 34-99678
+Adopted: March 6, 2024 (Implementation Stayed Pending Litigation)
+
+OVERVIEW
+
+On March 6, 2024, the SEC adopted final rules requiring public companies to disclose certain climate-related information in their registration statements and annual reports. The rules represent the SEC's most significant expansion of mandatory disclosure requirements in decades and are designed to provide investors with consistent, comparable, and decision-useful information about climate-related risks.
+
+The final rules were significantly scaled back from the March 2022 proposal in response to over 24,000 comment letters and extensive industry feedback.
+
+KEY REQUIREMENTS
+
+Governance Disclosures:
+Registrants must disclose:
+- The board of directors' oversight of climate-related risks
+- Management's role in assessing and managing climate-related risks
+- Any board committee responsible for climate risk oversight
+- How the board is informed about climate-related risks
+- Whether and how climate-related risks are integrated into business strategy
+
+Strategy and Risk Management:
+Registrants must describe:
+- Climate-related risks that have materially impacted or are reasonably likely to materially impact business strategy, results of operations, or financial condition
+- Whether identified risks are physical or transition risks
+- The actual and potential material impacts of identified risks on strategy, business model, and outlook
+- Activities to mitigate or adapt to material climate-related risks
+- How transition plans, if any, relate to climate-related risk management
+
+Material Expenditures and Financial Estimates:
+Registrants must disclose:
+- Quantitative and qualitative disclosure of material expenditures and material impacts on financial estimates and assumptions directly resulting from activities to mitigate or adapt to climate-related risks
+- Disclosed in a note to the financial statements (audited)
+
+Greenhouse Gas (GHG) Emissions:
+- Large Accelerated Filers (LAFs): Must disclose Scope 1 and Scope 2 GHG emissions if material
+- Accelerated Filers (AFs): Must disclose Scope 1 and Scope 2 GHG emissions if material
+- Non-accelerated filers, Smaller Reporting Companies (SRCs), Emerging Growth Companies (EGCs): Exempt from GHG emissions disclosure
+- Scope 3 emissions: NOT required (dropped from the proposal)
+
+Attestation:
+- LAFs must obtain limited assurance for Scope 1 and Scope 2 emissions, transitioning to reasonable assurance over time
+- AFs must obtain limited assurance
+- Attestation must be performed by an independent attestation service provider (not limited to registered public accounting firms)
+
+WHAT WAS DROPPED FROM THE PROPOSAL
+
+The final rule significantly narrowed the March 2022 proposal:
+1. Scope 3 emissions disclosure requirement — eliminated entirely
+2. 1% financial statement line item threshold — eliminated
+3. Scenario analysis requirement — eliminated (voluntary disclosure permitted)
+4. Internal carbon pricing disclosure — eliminated
+5. Climate-related targets and goals — narrowed to material climate-related targets only
+6. Board member climate expertise — eliminated
+
+PHASED IMPLEMENTATION TIMELINE
+
+The implementation timeline varies by filer status:
+
+Large Accelerated Filers (LAF):
+- Climate-related disclosures in annual reports: FY beginning 2025 (filed in 2026)
+- GHG emissions (Scope 1 & 2): FY beginning 2026 (filed in 2027)
+- Limited assurance: FY beginning 2029 (filed in 2030)
+- Reasonable assurance: FY beginning 2033 (filed in 2034)
+
+Accelerated Filers (AF):
+- Climate-related disclosures: FY beginning 2026 (filed in 2027)
+- GHG emissions (Scope 1 & 2): FY beginning 2028 (filed in 2029)
+- Limited assurance: FY beginning 2031 (filed in 2032)
+
+Non-Accelerated Filers:
+- Climate-related disclosures: FY beginning 2027 (filed in 2028)
+- GHG emissions: Exempt
+- Assurance: Exempt
+
+SRCs and EGCs: Exempt from GHG emissions and assurance requirements
+
+LITIGATION STATUS
+
+The rules have been challenged in multiple federal courts:
+- Eighth Circuit: Stay granted pending review (March 2024)
+- Fifth Circuit: Consolidated challenges
+- D.C. Circuit: Additional challenges filed
+
+The SEC voluntarily stayed implementation of the rules in April 2024 pending resolution of the legal challenges. As of early 2025, the stay remains in effect.
+
+Key legal arguments against the rules:
+- Exceeds SEC's statutory authority
+- First Amendment (compelled speech) concerns
+- Major questions doctrine (requires clear congressional authorization for rules of vast economic and political significance)
+- Arbitrary and capricious under the Administrative Procedure Act
+
+FINANCIAL STATEMENT IMPACTS
+
+The rules require specific disclosures in audited financial statements:
+1. Expenditures related to severe weather events and natural conditions
+2. Expenditures related to carbon offsets and renewable energy credits (if material to climate-related targets)
+3. Material impacts on financial estimates and assumptions from climate-related risks
+
+These financial statement disclosures are subject to audit and internal control over financial reporting (ICFR).
+
+INTERACTION WITH OTHER CLIMATE DISCLOSURE FRAMEWORKS
+
+| Framework | Jurisdiction | Status |
+|-----------|-------------|--------|
+| SEC Climate Rule | United States | Stayed pending litigation |
+| EU CSRD/ESRS | European Union | Effective 2024 (phased) |
+| ISSB Standards (S1/S2) | Global (voluntary) | Effective January 2024 |
+| California SB 253/261 | California | Effective 2026-2027 |
+| UK Sustainability Disclosure Standards | United Kingdom | Expected 2025 |
+| TCFD Recommendations | Global (voluntary) | Subsumed by ISSB |
+
+COMPLIANCE CONSIDERATIONS
+
+Companies should prepare for climate-related disclosure requirements regardless of the SEC rule's litigation outcome:
+1. California's SB 253 (Climate Corporate Data Accountability Act) requires Scope 1, 2, AND 3 emissions reporting for companies with >$1 billion revenue doing business in California
+2. EU CSRD affects US companies with significant EU operations
+3. Investor pressure for voluntary disclosure continues to increase
+4. ISSB standards are being adopted by jurisdictions worldwide
+
+Recommended preparation steps:
+- Establish climate governance structures
+- Conduct climate-related risk assessments
+- Begin measuring GHG emissions (Scope 1 and 2 at minimum)
+- Evaluate internal controls over climate-related data
+- Assess materiality of climate-related risks
+- Review existing disclosures for consistency
+- Engage with attestation providers
+- Monitor regulatory developments across jurisdictions

@@ -1,0 +1,137 @@
+Dodd-Frank Act: Whistleblower Provisions and SEC Bounty Program
+
+SECURITIES AND EXCHANGE COMMISSION
+Section 21F of the Securities Exchange Act of 1934
+17 CFR Part 240 — Rules 21F-1 through 21F-17
+
+STATUTORY FRAMEWORK
+
+The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 established a comprehensive whistleblower program administered by the SEC. Section 922 of Dodd-Frank added Section 21F to the Securities Exchange Act of 1934, creating financial incentives for individuals to report securities law violations to the SEC.
+
+The program serves dual purposes: (1) incentivizing individuals with knowledge of securities violations to come forward, and (2) protecting whistleblowers from employer retaliation.
+
+ELIGIBILITY AND AWARD CRITERIA
+
+Monetary Awards:
+The SEC is required to pay awards to eligible whistleblowers who voluntarily provide original information that leads to successful enforcement actions resulting in monetary sanctions exceeding $1,000,000.
+
+Award Range: 10% to 30% of the monetary sanctions collected in the action.
+
+The SEC considers the following factors in determining the award percentage:
+
+Factors that increase the award:
+- Significance of the information provided
+- Degree of assistance provided by the whistleblower
+- SEC's programmatic interest in deterring violations
+- Whether the information was provided through internal compliance channels first
+
+Factors that decrease the award:
+- Culpability or involvement of the whistleblower in the reported violations
+- Unreasonable delay in reporting
+- Interference with internal compliance and reporting systems
+
+DEFINITION OF ORIGINAL INFORMATION
+
+Information qualifies as "original" if it is:
+1. Derived from the whistleblower's independent knowledge or independent analysis
+2. Not already known to the SEC from another source (unless the whistleblower is the original source)
+3. Not exclusively derived from publicly available sources (e.g., judicial proceedings, government reports, news media)
+
+Independent knowledge includes firsthand observations, communications with involved parties, or information learned through the whistleblower's employment.
+
+Independent analysis means the whistleblower's own examination and evaluation of publicly available information that reveals information not generally known.
+
+ANTI-RETALIATION PROTECTIONS
+
+Section 21F(h) provides robust anti-retaliation protections:
+
+Prohibited actions by employers:
+- Discharge or termination
+- Demotion or suspension
+- Harassment or threats
+- Any discrimination in terms and conditions of employment
+
+Remedies for retaliation:
+- Reinstatement to the same seniority status
+- Two times back pay with interest
+- Litigation costs, expert witness fees, and reasonable attorneys' fees
+- Any other appropriate remedy
+
+Statute of limitations: Whistleblowers must file retaliation claims within 6 years of the retaliatory act or 3 years after the date when facts material to the claim were known or should have been known (but not more than 10 years after the violation).
+
+In Digital Realty Trust v. Somers (2018), the Supreme Court held that anti-retaliation protections under Dodd-Frank apply only to individuals who report to the SEC, not to those who only report internally. This decision narrowed the scope of protection but clarified that SEC reporting is required for Dodd-Frank protections.
+
+REPORTING PROCEDURES
+
+Whistleblowers submit tips through:
+1. SEC's online Tips, Complaints, and Referrals (TCR) system
+2. SEC Form TCR (paper submission)
+3. Mail to the SEC Office of the Whistleblower
+
+Anonymous submissions are permitted, but the whistleblower must be represented by an attorney. The attorney must disclose the whistleblower's identity to the SEC before any award payment.
+
+CONFIDENTIALITY PROTECTIONS
+
+The SEC is prohibited from disclosing information that could reasonably be expected to reveal the identity of a whistleblower, except:
+- In connection with a public proceeding
+- When the SEC determines disclosure is necessary to prevent imminent conduct likely to cause harm
+- To Congress, in response to a subpoena
+- To the DOJ for criminal law enforcement
+- To appropriate regulatory authorities
+
+PROGRAM STATISTICS AND IMPACT
+
+Since inception (2011), the SEC Whistleblower Program has:
+- Awarded over $2 billion to whistleblowers (through 2024)
+- Received over 80,000 tips
+- Made awards to individuals in enforcement actions recovering over $7 billion
+- Largest single award: $279 million (2023)
+- Second largest: $114 million (2022)
+
+The program has been credited with significantly enhancing the SEC's enforcement capabilities, particularly in areas that are difficult to detect through traditional surveillance methods, including:
+- Insider trading schemes
+- Foreign bribery (FCPA violations)
+- Municipal securities fraud
+- Offering frauds
+- Market manipulation
+- Financial reporting violations
+
+INTERACTION WITH SOX WHISTLEBLOWER PROTECTIONS
+
+The Sarbanes-Oxley Act of 2002 (SOX Section 806) provides separate whistleblower protections for employees of publicly traded companies. Key differences:
+
+| Feature | SOX Section 806 | Dodd-Frank Section 21F |
+|---------|-----------------|----------------------|
+| Protected activity | Report to employer, SEC, Congress, or supervisor | Report to SEC specifically |
+| Monetary award | No | 10-30% of sanctions over $1M |
+| Filing deadline | 180 days | 6 years (3-year discovery rule) |
+| Forum | OSHA, then federal court | Federal court directly |
+| Scope | Public company employees | Any individual |
+| Arbitration | Cannot be waived | Cannot be waived |
+
+RECENT DEVELOPMENTS AND RULE AMENDMENTS
+
+2024 Rule Amendments:
+The SEC adopted amendments to streamline the whistleblower program:
+- Clarified that tips can relate to violations that have already occurred or are ongoing
+- Expanded the definition of "action" to include certain deferred prosecution agreements and non-prosecution agreements
+- Provided additional protections for whistleblowers in the cryptocurrency and digital asset space
+- Increased the threshold considerations for dollar amount of awards
+
+Judicial Developments:
+- Murray v. UBS Securities LLC (2024): The Supreme Court held that SOX whistleblower plaintiffs need not prove retaliatory intent, only that protected activity was a contributing factor in the adverse action.
+- Various circuit courts have addressed the intersection of Dodd-Frank whistleblower protections with mandatory arbitration agreements, generally holding that whistleblower retaliation claims cannot be compelled to arbitration.
+
+COMPLIANCE CONSIDERATIONS FOR FINANCIAL INSTITUTIONS
+
+Financial institutions should:
+1. Establish robust internal reporting channels (hotlines, web portals)
+2. Train employees on whistleblower rights and protections
+3. Document investigation procedures for internal reports
+4. Maintain anti-retaliation policies and training for managers
+5. Track and report on internal compliance reports
+6. Coordinate with legal counsel on SEC reporting obligations
+7. Review employment agreements to ensure they do not contain provisions that could discourage SEC reporting
+8. Monitor regulatory developments in whistleblower law
+
+The SEC has taken enforcement actions against companies that include provisions in employment agreements, separation agreements, or compliance policies that could impede individuals from communicating with SEC staff about potential violations. Companies should review all such agreements for compliance.

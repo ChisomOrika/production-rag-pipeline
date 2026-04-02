@@ -65,10 +65,10 @@ class HybridRetriever:
             text("""
                 SELECT id, chunk_text, chunk_index, silver_id,
                        source_document_hash, document_version, is_current,
-                       1 - (embedding <=> :embedding::vector) as similarity
+                       1 - (embedding <=> cast(:embedding as vector)) as similarity
                 FROM gold_chunks
                 WHERE is_current = true
-                ORDER BY embedding <=> :embedding::vector
+                ORDER BY embedding <=> cast(:embedding as vector)
                 LIMIT :limit
             """),
             {"embedding": embedding_str, "limit": top_k},

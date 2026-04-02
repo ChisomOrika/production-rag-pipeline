@@ -1,0 +1,140 @@
+FDIC Deposit Insurance Coverage: Rules, Limits, and Recent Changes
+
+FEDERAL DEPOSIT INSURANCE CORPORATION
+12 CFR Part 330 — Deposit Insurance Coverage
+
+OVERVIEW
+
+The Federal Deposit Insurance Corporation (FDIC) provides deposit insurance to depositors in FDIC-insured banks and savings associations. Deposit insurance protects bank customers in the event of an insured institution failure by guaranteeing deposits up to the coverage limit.
+
+STANDARD MAXIMUM DEPOSIT INSURANCE AMOUNT (SMDIA)
+
+The current standard maximum deposit insurance amount is $250,000 per depositor, per insured bank, per ownership category.
+
+This limit was permanently set at $250,000 by the Dodd-Frank Act in 2010, after being temporarily raised from $100,000 during the 2008 financial crisis.
+
+OWNERSHIP CATEGORIES
+
+Deposit insurance coverage is determined by ownership category. The same depositor can have coverage in multiple categories at the same bank:
+
+1. Single Accounts: $250,000 per owner
+All deposits owned by one person in the same insured bank (checking, savings, CDs, money market deposits, cashier's checks, money orders).
+
+2. Joint Accounts: $250,000 per co-owner
+Each co-owner's share is insured up to $250,000. Example: A joint account held by two people is insured up to $500,000 ($250,000 per co-owner).
+
+3. Revocable Trust Accounts: $250,000 per beneficiary (up to 5 beneficiaries without formal trust documentation)
+- Payable-on-death (POD) accounts
+- Living trust (revocable trust) accounts
+- Maximum coverage = $250,000 × number of beneficiaries
+
+4. Irrevocable Trust Accounts: Up to $250,000 per beneficiary, based on the beneficiary's non-contingent interest
+
+5. Retirement Accounts: $250,000 per owner (aggregate)
+Includes: Traditional IRA, Roth IRA, SEP IRA, SIMPLE IRA, self-directed 401(k), self-directed 403(b), self-directed 457, Keogh plan accounts
+
+6. Employee Benefit Plan Accounts: $250,000 per participant
+Includes employer-sponsored retirement plans (401(k), pension plans, profit-sharing plans)
+
+7. Corporation/Partnership/Unincorporated Association Accounts: $250,000 per entity
+
+8. Government Accounts: $250,000 per official custodian
+
+WHAT IS INSURED
+
+Insured deposits:
+- Checking accounts (demand deposits)
+- Savings accounts
+- Money market deposit accounts (MMDAs)
+- Certificates of deposit (CDs)
+- Cashier's checks, money orders, and other official items issued by an insured bank
+- Negotiable Order of Withdrawal (NOW) accounts
+
+NOT insured:
+- Stock investments
+- Bond investments
+- Mutual funds (even if purchased at an insured bank)
+- Life insurance policies
+- Annuities
+- Municipal securities
+- Safe deposit box contents
+- U.S. Treasury bills, bonds, or notes (backed by the full faith and credit of the U.S. government, but not by FDIC)
+- Crypto assets held at banks (FDIC does not insure cryptocurrency)
+
+BANK FAILURE PROCESS
+
+When an FDIC-insured bank fails:
+
+1. Closing: The chartering authority (state regulator or OCC) closes the bank
+2. FDIC Appointment: FDIC is appointed as receiver
+3. Insurance Determination: FDIC reviews deposit accounts and determines insured amounts
+4. Payment: FDIC typically makes insured deposits available within 2 business days
+5. Receivership: FDIC liquidates the failed bank's assets and distributes proceeds
+
+Methods of resolution:
+- Purchase and Assumption (P&A): Another bank acquires the failed bank's deposits and some/all assets. Most common method — depositors may not experience any disruption.
+- Deposit Payoff: FDIC pays insured depositors directly. Used when no acquirer is found.
+- Open Bank Assistance: FDIC provides financial assistance to keep the bank open (rare, used for systemic risk situations).
+
+SYSTEMIC RISK EXCEPTION
+
+Under the Federal Deposit Insurance Act, the FDIC can invoke the systemic risk exception to protect deposits above the $250,000 limit when the failure would have serious adverse effects on economic conditions or financial stability.
+
+This exception was invoked in March 2023 for Silicon Valley Bank (SVB) and Signature Bank, where the FDIC, Federal Reserve, and Treasury determined that uninsured depositors would be made whole to prevent systemic contagion.
+
+Requirements for invoking the systemic risk exception:
+1. Recommendation by two-thirds of the FDIC Board
+2. Recommendation by two-thirds of the Federal Reserve Board
+3. Determination by the Secretary of the Treasury (in consultation with the President)
+4. The least-cost test exception must be met
+
+DEPOSIT INSURANCE FUND (DIF)
+
+The DIF is funded primarily by:
+- Quarterly assessments on insured depository institutions
+- Interest earned on investments in U.S. Treasury securities
+- Recoveries from failed institution receiverships
+
+Key metrics:
+- Designated Reserve Ratio (DRR): Statutory minimum 1.35% of estimated insured deposits
+- Target: FDIC Board has set a 2% long-term target for the reserve ratio
+- DIF balance as of Q4 2024: Approximately $128.2 billion
+- Reserve ratio as of Q4 2024: Approximately 1.25% (below statutory minimum due to 2023 bank failures)
+
+FDIC has implemented a special assessment on banks with over $5 billion in uninsured deposits to replenish the DIF following the 2023 bank failures. The assessment is collected over 8 quarterly periods beginning in 2024.
+
+RECENT REGULATORY DEVELOPMENTS
+
+2023-2024 Developments:
+1. SVB/Signature Bank Aftermath:
+   - FDIC invoked systemic risk exception for both banks
+   - Congress debated raising the SMDIA (proposals ranging from $500,000 to $2,500,000 for business accounts)
+   - FDIC proposed reforms to deposit insurance framework
+
+2. FDIC Options for Deposit Insurance Reform (May 2023 Report):
+   - Option 1: Limited Coverage — maintain current $250,000 limit
+   - Option 2: Unlimited Coverage — insure all deposits (rejected due to moral hazard concerns)
+   - Option 3: Targeted Coverage — higher limits for business payment accounts (FDIC's recommended approach)
+
+3. Brokered Deposits Rule:
+   - FDIC finalized revisions to the brokered deposits rule affecting how deposits placed through intermediaries (fintech platforms, deposit networks) are classified
+   - Impact on fintech companies that partner with FDIC-insured banks
+
+4. Crypto-Asset Guidance:
+   - FDIC issued guidance clarifying that crypto assets are NOT insured
+   - Required banks to provide clear disclosures about the non-insured status of crypto assets
+   - Enforcement actions against entities misrepresenting FDIC insurance coverage for crypto products
+
+PRACTICAL GUIDANCE FOR DEPOSITORS
+
+Maximizing FDIC coverage:
+1. Use different ownership categories at the same bank
+2. Spread deposits across multiple FDIC-insured banks
+3. Use deposit allocation services (e.g., IntraFi Network, formerly CDARS/ICS) to spread large deposits across multiple banks while maintaining a single banking relationship
+4. Ensure beneficiary designations are current and accurate for trust accounts
+5. Understand that coverage is per depositor, per bank, per ownership category — not per account
+
+Verifying insurance coverage:
+- FDIC BankFind: Verify a bank is FDIC-insured
+- FDIC EDIE (Electronic Deposit Insurance Estimator): Calculate coverage for specific deposit configurations
+- Banks must display official FDIC sign at teller windows and on websites

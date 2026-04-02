@@ -1,0 +1,158 @@
+SEC Regulation SHO: Short Selling Regulation
+
+SECURITIES AND EXCHANGE COMMISSION
+17 CFR Part 242 — Regulation SHO
+As Amended Through 2024
+
+OVERVIEW
+
+Regulation SHO governs short selling of securities in the United States. Adopted in 2005, it addresses concerns about failures to deliver (FTDs), naked short selling, and the potential for abusive short selling practices that can manipulate market prices.
+
+Short selling — the sale of a security that the seller does not own or any sale that is completed by the delivery of a security borrowed by the seller — is a legitimate and important market mechanism that provides liquidity, facilitates price discovery, and enables hedging. However, unchecked short selling can be used to manipulate prices or create settlement failures.
+
+LOCATE REQUIREMENT (RULE 203(b)(1))
+
+Before executing a short sale, a broker-dealer must:
+1. Borrow the security, OR
+2. Enter into an arrangement to borrow the security, OR
+3. Have reasonable grounds to believe that the security can be borrowed so that it can be delivered on the settlement date
+
+This "locate" requirement must be documented before the short sale order is submitted.
+
+Pre-Borrow Requirement for Threshold Securities:
+If a broker-dealer, or its customer, has failed to deliver securities for 13 consecutive settlement days in a threshold security, the broker-dealer must pre-borrow (actually borrow, not merely locate) before effecting further short sales.
+
+CLOSE-OUT REQUIREMENTS (RULE 204)
+
+Rule 204 addresses failures to deliver (FTDs):
+
+For Short Sales:
+- If a participant has a fail-to-deliver position that is not closed out by the beginning of regular trading hours on T+1 (settlement date + 1), the participant must close out the position by purchasing or borrowing securities by the beginning of regular trading hours on T+2
+- Note: With the transition to T+1 settlement (May 28, 2024), these deadlines have been accelerated
+
+For Long Sales:
+- Close-out required by the beginning of regular trading hours on T+3
+
+Consequences of failure to close out:
+- The participant and its broker-dealer are prohibited from effecting further short sales in that security (for its own account or for the account of any person for which it is effecting short sales) until the fail is closed out
+- This restriction also applies to any broker-dealer from which the participant receives trades for clearance and settlement
+- "Pre-borrow" requirement applies until the fail is closed out
+
+THRESHOLD SECURITIES LIST
+
+A security is designated as a threshold security when:
+- There is an aggregate fail-to-deliver position for five consecutive settlement days
+- The aggregate FTD equals 10,000 shares or more per security
+- The FTD level equals at least 0.5% of the total shares outstanding
+
+Self-regulatory organizations (SROs) publish threshold security lists daily. Securities remain on the list until FTD conditions are no longer met.
+
+SHORT SALE PRICE TEST RESTRICTION (RULE 201 — ALTERNATIVE UPTICK RULE)
+
+Rule 201 imposes a short sale price test restriction when triggered:
+
+Circuit Breaker:
+- Triggered when a covered security's price declines by 10% or more from the prior day's closing price
+- Once triggered, the restriction remains in effect for the remainder of the trading day and the following trading day
+
+Price Test:
+- While the restriction is in effect, short sale orders may only be executed at a price above the current national best bid (NBB)
+- This prevents short sellers from further driving down the price during significant declines
+- Exemptions available for certain market-making activities
+
+MARKING REQUIREMENTS (RULE 200)
+
+All sell orders must be marked as:
+- "Long": Seller owns the security and intends to deliver from inventory
+- "Short": Seller does not own the security or intends to deliver borrowed shares
+- "Short Exempt": Short sale that is exempt from the Rule 201 price test restriction
+
+A person is deemed to own a security if they:
+- Have purchased or entered into an unconditional contract to purchase the security
+- Own the security through a conversion, exchange, or exercise right
+- Have an irrevocable right to acquire the security
+
+Aggregation Unit Exception:
+Multi-service broker-dealers may designate independent trading aggregation units that independently determine their net position for marking purposes, subject to structural and informational separation requirements.
+
+REPORTING REQUIREMENTS
+
+Short Interest Reporting:
+- FINRA member firms must report short interest positions in all equity securities twice per month (settlement dates on or about the 15th and last business day)
+- FINRA publishes aggregate short interest data
+- Individual firm short positions are not publicly disclosed
+
+Short Sale Transaction Reporting:
+- Exchanges and FINRA publish daily short sale volume data
+- Data includes total short sale volume, total volume, and short-exempt volume per security
+
+Regulation SHO Reporting (Rule 203(b)(3)):
+- Clearing agencies report threshold securities to SROs
+- SROs publish daily threshold security lists
+
+2024 SHORT SALE REPORTING AMENDMENTS
+
+The SEC adopted significant new short selling reporting requirements in 2024:
+
+Rule 13f-2 (Institutional Short Position Reporting):
+- Institutional investment managers must report short positions to the SEC on Form SHO
+- Reporting thresholds:
+  - Equity securities: Short position of $10 million or more, or 2.5% or more of shares outstanding
+  - Exchange-traded funds: Short position of $500,000 or more
+- Monthly reporting on a calendar month basis
+- SEC will publish aggregated (not individual manager) short position data
+
+Rule 205 (Short Sale Confirmation):
+- Broker-dealers must mark short sales and confirm the marking to customers
+
+CAT (Consolidated Audit Trail) Short Sale Reporting:
+- Short sale information must be reported to CAT
+- Enables regulators to trace short sale activity across the entire lifecycle
+
+NAKED SHORT SELLING
+
+Naked short selling — selling short without borrowing the security or locating shares to borrow — is not per se illegal under Regulation SHO, but is restricted through:
+1. The locate requirement (Rule 203(b)(1))
+2. The close-out requirement (Rule 204)
+3. The threshold securities list and associated restrictions
+
+Persistent fails to deliver are addressed through the mandatory close-out and pre-borrow requirements.
+
+EXEMPTIONS
+
+Key exemptions from certain Regulation SHO requirements:
+
+Market Maker Exemption:
+- Registered market makers engaged in bona fide market-making activities are exempt from the locate requirement (Rule 203(b)(2)(iii))
+- Market makers are NOT exempt from close-out requirements
+- FINRA has narrowed the scope of "bona fide" market-making through interpretive guidance
+
+Options Market Maker Exemption:
+- Options market makers are exempt from certain locate requirements when hedging options positions
+
+ENFORCEMENT
+
+The SEC and FINRA actively enforce Regulation SHO:
+
+Common violations:
+1. Failure to properly locate shares before short selling
+2. Failure to close out FTD positions within required timeframes
+3. Mismarking orders (marking a short sale as "long")
+4. Manipulation through naked short selling
+5. Circumventing the alternative uptick rule
+6. Insufficient supervisory procedures for short selling compliance
+
+Notable enforcement actions:
+- Various broker-dealers have paid millions in fines for systematic locate and close-out failures
+- Cases involving manipulation through coordinated short selling and negative publicity campaigns
+- Actions against firms for inadequate systems to prevent naked short selling
+
+CURRENT REGULATORY FOCUS
+
+SEC focus areas for short selling (2024-2025):
+1. Implementation of new short position reporting (Rule 13f-2)
+2. Enhanced surveillance of short selling around corporate events (earnings, M&A)
+3. Short selling in the context of social media and coordinated trading
+4. Monitoring of securities lending markets
+5. Evaluation of the impact of T+1 settlement on short selling dynamics
+6. Assessment of potential manipulation through "short and distort" campaigns

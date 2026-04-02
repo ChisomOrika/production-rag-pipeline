@@ -1,0 +1,196 @@
+OFAC Sanctions Compliance for Financial Institutions
+
+OFFICE OF FOREIGN ASSETS CONTROL (OFAC)
+U.S. Department of the Treasury
+31 CFR Chapter V
+
+OVERVIEW
+
+The Office of Foreign Assets Control (OFAC) administers and enforces economic and trade sanctions based on U.S. foreign policy and national security goals. OFAC sanctions programs target specific countries, regimes, terrorists, international narcotics traffickers, proliferators of weapons of mass destruction, and other threats to the national security, foreign policy, or economy of the United States.
+
+Financial institutions are at the frontline of sanctions compliance because virtually all financial transactions denominated in U.S. dollars are cleared through the U.S. financial system. OFAC compliance is a strict liability regime — violations can occur even without knowledge or intent.
+
+LEGAL FRAMEWORK
+
+Primary Authorities:
+- International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701-1706)
+- Trading With the Enemy Act (TWEA) (50 U.S.C. 4301-4341)
+- Various Executive Orders issued by the President
+- Country-specific sanctions statutes (e.g., Iran Sanctions Act, Magnitsky Act)
+
+Key Programs (as of 2024):
+- Russia/Ukraine-Related Sanctions (most active program)
+- Iran Sanctions
+- North Korea Sanctions
+- China/Hong Kong-Related Sanctions
+- Cuba Sanctions
+- Counter-Terrorism Sanctions
+- Counter-Narcotics Sanctions
+- Cyber-Related Sanctions
+- Global Magnitsky Sanctions (human rights abuses and corruption)
+- Venezuela Sanctions
+- Syria Sanctions
+
+SPECIALLY DESIGNATED NATIONALS AND BLOCKED PERSONS LIST (SDN LIST)
+
+The SDN List is OFAC's primary sanctions tool:
+- Contains names of individuals and entities designated under various sanctions programs
+- As of 2024, the SDN List contains over 12,000 entries
+- U.S. persons are prohibited from dealing with SDN-listed persons
+- All property and interests in property of SDNs within U.S. jurisdiction must be blocked (frozen)
+- Transactions involving SDNs must be rejected or blocked and reported to OFAC within 10 business days
+
+50% Rule:
+Entities owned 50% or more (individually or in the aggregate) by one or more SDNs are also considered blocked, even if the entity itself is not listed on the SDN List. This requires financial institutions to identify beneficial ownership and aggregate ownership interests.
+
+OTHER SANCTIONS LISTS
+
+- Sectoral Sanctions Identifications (SSI) List: Targets specific sectors of the Russian economy
+- Non-SDN Menu-Based Sanctions (NS-MBS) List: Targets for selected menu-based sanctions
+- Foreign Sanctions Evaders (FSE) List: Persons determined to have facilitated sanctions evasion
+- Non-SDN Palestinian Legislative Council (NS-PLC) List
+- Consolidated Sanctions List: Combines multiple OFAC lists for screening purposes
+
+COMPLIANCE PROGRAM REQUIREMENTS
+
+OFAC's "Framework for OFAC Compliance Commitments" (May 2019) outlines five essential components:
+
+1. Management Commitment
+- Senior management has reviewed and approved the compliance program
+- Adequate resources (human, technology, financial) are dedicated to compliance
+- OFAC compliance is integrated into the organization's culture
+- The compliance function has sufficient autonomy and authority
+- Accountability for compliance failures is enforced
+
+2. Risk Assessment
+- Conduct a comprehensive, enterprise-wide risk assessment
+- Identify sanctions risks across all products, services, customers, and geographies
+- Assess risk from correspondent banking relationships
+- Evaluate risks from new products, services, and technologies
+- Update risk assessment periodically and upon material changes
+
+Key risk factors:
+- Customer base (PEPs, foreign financial institutions, high-risk jurisdictions)
+- Products and services (correspondent banking, trade finance, wire transfers)
+- Geographic exposure (sanctioned countries, transshipment hubs)
+- Intermediaries and third-party relationships
+- Use of technology (cryptocurrency, anonymizing services)
+
+3. Internal Controls
+- Policies and procedures to identify, interdict, escalate, report, and maintain records of sanctions-related activities
+- Transaction screening and filtering systems
+- Customer/counterparty screening against OFAC lists
+- Interdiction procedures for positive matches
+- Escalation and decision-making procedures for potential matches
+- Blocking and rejecting procedures
+- OFAC reporting (blocked property reports, rejected transactions)
+
+4. Testing and Auditing
+- Independent testing of the sanctions compliance program
+- Regular audits of screening systems and procedures
+- Testing of sanctions list updates and system patches
+- Review of false positive disposition decisions
+- Assessment of training effectiveness
+- Documentation of testing results and remedial actions
+
+5. Training
+- Comprehensive sanctions compliance training for all relevant employees
+- Role-specific training for compliance staff, front-line employees, and senior management
+- Training on sanctions screening systems and interdiction procedures
+- Regular updates on new sanctions designations and program changes
+- Documentation of training completion
+
+SCREENING REQUIREMENTS
+
+Name Screening:
+Financial institutions must screen:
+- All new customers at account opening
+- All parties to wire transfers (originators, beneficiaries, intermediaries)
+- All counterparties in trade finance transactions
+- Existing customer base against updated SDN Lists
+- Payments and transactions in real-time
+
+OFAC updates the SDN List frequently (multiple times per month). Institutions must update their screening systems within a commercially reasonable timeframe.
+
+Screening best practices:
+- Fuzzy matching algorithms to account for name variations, transliterations, and aliases
+- Multiple matching criteria (name, address, date of birth, ID numbers)
+- Regular tuning of screening parameters to balance detection and false positives
+- Documentation of screening methodology and rationale for match/no-match decisions
+- Escalation procedures for potential matches
+
+Transaction Monitoring:
+Beyond name screening, institutions should monitor for:
+- Transactions involving sanctioned countries or jurisdictions
+- Unusual transaction patterns that may indicate sanctions evasion
+- Use of front companies or intermediaries to obscure sanctioned parties
+- Transshipment through third countries to evade sanctions
+- Structuring transactions to avoid detection thresholds
+- Virtual currency transactions involving sanctioned addresses
+
+REPORTING OBLIGATIONS
+
+Blocked Property Reports:
+- Filed within 10 business days of blocking property or interest in property
+- Annual reports of all blocked property as of June 30 each year
+- Reports filed with OFAC Compliance Division
+
+Rejected Transaction Reports:
+- Filed within 10 business days of rejecting a transaction
+- Must include details of the parties, amount, and reason for rejection
+
+Voluntary Self-Disclosures (VSD):
+- OFAC strongly encourages voluntary self-disclosure of apparent violations
+- VSDs are considered a significant mitigating factor in enforcement
+- A VSD resulting in a settlement typically results in a penalty 50% or less of the statutory maximum
+- Failure to self-disclose when a violation is discovered can be an aggravating factor
+
+PENALTIES AND ENFORCEMENT
+
+Civil Penalties:
+- IEEPA violations: Up to $356,579 per violation (as adjusted for inflation), or twice the value of the transaction, whichever is greater
+- TWEA violations: Up to $98,399 per violation
+- Penalties can be cumulative (multiple violations per transaction)
+
+Criminal Penalties:
+- IEEPA: Up to $1 million and/or 20 years imprisonment per violation
+- TWEA: Up to $1 million and/or imprisonment
+
+Notable Enforcement Actions:
+- BNP Paribas (2014): $8.97 billion — largest OFAC penalty in history (Sudan, Cuba, Iran sanctions)
+- Standard Chartered (2019): $1.1 billion (Iran, Burma, Cuba, Sudan, Syria, Zimbabwe)
+- UniCredit (2019): $611 million (Iran, Burma, Cuba, Libya, Sudan, Syria)
+- Deutsche Bank (2023): $186 million (multiple sanctions programs)
+- BitPay (2021): $507,375 (cryptocurrency transactions with sanctioned jurisdictions — first major crypto OFAC enforcement)
+
+SANCTIONS AND CRYPTOCURRENCY
+
+OFAC has increasingly focused on virtual currency:
+- SDN List includes cryptocurrency wallet addresses
+- Tornado Cash (2022): OFAC designated the Ethereum mixer as an SDN — first designation of a decentralized protocol
+- Blender.io (2022): Designated as the first virtual currency mixer sanctioned
+- Expectations for virtual asset service providers (VASPs) to implement sanctions screening
+- Challenges: Pseudonymous transactions, decentralized protocols, cross-chain transactions
+
+RUSSIA-RELATED SANCTIONS
+
+The most expansive sanctions program in OFAC history (post-2022):
+- Full blocking sanctions on major Russian financial institutions (Sberbank, VTB, Gazprombank)
+- Sovereign debt prohibitions
+- Export controls on technology and dual-use goods (coordinated with BIS)
+- Price cap on Russian oil ($60/barrel)
+- Designation of thousands of Russian individuals and entities
+- Secondary sanctions on non-U.S. persons facilitating evasion
+- Prohibition on imports of Russian gold, diamonds, seafood, and other goods
+- Sanctions on Russia's access to SWIFT messaging system
+
+COMPLIANCE CHALLENGES
+
+1. Beneficial ownership identification: Complex corporate structures obscure sanctioned parties
+2. Correspondent banking: Risk of processing transactions for sanctioned parties through nested relationships
+3. Real-time screening: Balancing detection accuracy with transaction processing speed
+4. Extraterritorial reach: Non-U.S. institutions must understand nexus to U.S. jurisdiction
+5. Rapidly changing designations: Frequent updates require agile compliance systems
+6. Cryptocurrency and DeFi: Emerging technology outpacing regulatory frameworks
+7. Trade-based sanctions evasion: Complex logistics and documentation fraud
+8. Secondary sanctions: Non-U.S. persons face restrictions for dealing with sanctioned parties

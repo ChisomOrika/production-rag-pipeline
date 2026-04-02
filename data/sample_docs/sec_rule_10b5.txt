@@ -1,0 +1,84 @@
+SEC Rule 10b-5: Employment of Manipulative and Deceptive Devices
+
+SECURITIES AND EXCHANGE COMMISSION
+17 CFR Part 240 — Rule 10b-5
+
+AUTHORITY: Section 10(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78j(b))
+
+OVERVIEW
+
+Rule 10b-5, promulgated under Section 10(b) of the Securities Exchange Act of 1934, is the primary antifraud provision in U.S. securities regulation. It makes it unlawful for any person, directly or indirectly, by the use of any means or instrumentality of interstate commerce, or of the mails or of any facility of any national securities exchange:
+
+(a) To employ any device, scheme, or artifice to defraud,
+
+(b) To make any untrue statement of a material fact or to omit to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading, or
+
+(c) To engage in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person, in connection with the purchase or sale of any security.
+
+SCOPE AND APPLICATION
+
+Rule 10b-5 applies broadly to all securities transactions, whether conducted on national exchanges or over-the-counter markets. The rule covers both buyers and sellers of securities and extends to any person who engages in fraudulent conduct in connection with the purchase or sale of securities.
+
+The Supreme Court has interpreted "in connection with" broadly. In SEC v. Zandford (2002), the Court held that the "in connection with" requirement is satisfied when the fraud and the securities transaction coincide. The fraud need not be the direct cause of the investor's decision to buy or sell.
+
+ELEMENTS OF A 10b-5 CLAIM
+
+To establish a private right of action under Rule 10b-5, a plaintiff must prove:
+
+1. A material misrepresentation or omission (or other fraudulent device)
+2. Scienter (intent to deceive, manipulate, or defraud)
+3. A connection with the purchase or sale of a security
+4. Reliance on the misrepresentation
+5. Economic loss
+6. Loss causation (the misrepresentation caused the economic loss)
+
+MATERIALITY STANDARD
+
+Information is material if there is a substantial likelihood that a reasonable investor would consider it important in making an investment decision. The Supreme Court established this standard in TSC Industries, Inc. v. Northway, Inc. (1976) and applied it to Rule 10b-5 cases in Basic Inc. v. Levinson (1988).
+
+For forward-looking statements, materiality depends on a balancing of the probability that the event will occur and the anticipated magnitude of the event in light of the totality of company activity.
+
+SCIENTER REQUIREMENT
+
+Unlike common law fraud, which may require only negligence, Rule 10b-5 requires scienter — a mental state embracing intent to deceive, manipulate, or defraud. The Supreme Court confirmed this requirement in Ernst & Ernst v. Hochfelder (1976).
+
+Most circuit courts have held that recklessness — defined as conduct that is "an extreme departure from the standards of ordinary care" presenting "a danger of misleading buyers or sellers that is either known to the defendant or is so obvious that the actor must have been aware of it" — satisfies the scienter requirement.
+
+INSIDER TRADING UNDER RULE 10b-5
+
+Rule 10b-5 is the primary basis for insider trading enforcement. The SEC has developed several theories of liability:
+
+Classical Theory: Corporate insiders (officers, directors, employees) who trade on material, nonpublic information (MNPI) violate Rule 10b-5 because they breach a fiduciary duty to the corporation's shareholders.
+
+Misappropriation Theory: Any person who misappropriates confidential information for securities trading purposes, in breach of a duty owed to the source of the information, violates Rule 10b-5. The Supreme Court endorsed this theory in United States v. O'Hagan (1997).
+
+Tipper-Tippee Liability: A person who passes MNPI (tipper) and the person who trades on it (tippee) can both be liable. Under Dirks v. SEC (1983), the tippee's liability is derivative of the tipper's breach of fiduciary duty. The tipper must receive a "personal benefit" from the disclosure.
+
+SAFE HARBOR: RULE 10b5-1 TRADING PLANS
+
+Rule 10b5-1, adopted in 2000 and amended in 2023, provides an affirmative defense to insider trading claims. A person may establish a written trading plan that specifies the amount, price, and date of trades in advance, while not in possession of MNPI.
+
+The 2023 amendments strengthened the requirements by:
+- Imposing a cooling-off period (90 days for directors/officers, 30 days for others)
+- Limiting the use of multiple overlapping plans
+- Requiring a good faith certification that the plan is not part of a scheme to evade insider trading prohibitions
+- Adding conditions for single-trade plans
+
+ENFORCEMENT AND PENALTIES
+
+The SEC enforces Rule 10b-5 through civil actions seeking injunctions, disgorgement of profits, civil monetary penalties (up to $1,098,190 per violation for individuals or the greater of $2,196,380 or the gross pecuniary gain for entities as of 2024), and officer/director bars.
+
+The Department of Justice can bring criminal prosecutions under Section 10(b), which carries penalties of up to $5 million in fines and 20 years imprisonment for individuals, and up to $25 million in fines for organizations.
+
+Private plaintiffs may bring class actions under Rule 10b-5, subject to the heightened pleading requirements of the Private Securities Litigation Reform Act of 1995 (PSLRA), which requires that complaints specify each misleading statement and state with particularity facts giving rise to a strong inference of scienter.
+
+RECENT DEVELOPMENTS
+
+In 2024, the SEC has increased enforcement focus on:
+- Cryptocurrency and digital asset fraud under existing securities laws
+- SPACs and de-SPAC transaction disclosures
+- ESG and climate-related misrepresentations
+- Cybersecurity incident disclosure failures
+- Rule 10b5-1 plan compliance following the 2023 amendments
+
+The SEC has also proposed amendments to modernize Rule 10b-5 enforcement in the context of algorithmic and AI-driven trading strategies.

@@ -1,0 +1,176 @@
+JPMORGAN CHASE & CO. — FORM 10-K (Annual Report)
+Filed with the Securities and Exchange Commission
+For the Fiscal Year Ended December 31, 2024
+
+Commission File Number: 1-5805
+JPMorgan Chase & Co. (Exact name of registrant)
+383 Madison Avenue, New York, New York 10179
+
+PART I
+
+ITEM 1. BUSINESS
+
+JPMorgan Chase & Co. is a leading financial services firm based in the United States, with operations worldwide. The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing, and asset management. JPMorgan Chase had $4.0 trillion in assets and $345 billion in stockholders' equity as of December 31, 2024.
+
+BUSINESS SEGMENTS
+
+Consumer & Community Banking (CCB):
+- Consumer & Business Banking: Deposits, payments, lending, and investments
+- Home Lending: Mortgage origination and servicing
+- Card Services & Auto: Credit cards, auto loans, and student lending
+- Revenue (FY2024): $72.4 billion
+- Net Income: $20.2 billion
+- Customers served: ~82 million consumer households, ~6 million small business clients
+- Deposits: $1.1 trillion
+- Active mobile users: 56 million
+- Credit card sales volume: $1.1 trillion
+- #1 U.S. credit card issuer by outstanding balances
+
+Commercial & Investment Bank (CIB):
+- Investment Banking: M&A advisory, equity and debt underwriting
+- Markets: Fixed income, equities, and securities services
+- Wholesale Payments: Treasury services, trade finance, and commercial card
+- Revenue (FY2024): $55.2 billion
+- Net Income: $19.1 billion
+- #1 global investment banking fee wallet share (9.3%)
+- Markets revenue: $31.4 billion (#1 globally)
+- Assets under custody: $35.6 trillion
+
+Asset & Wealth Management (AWM):
+- Asset Management: Investment management across asset classes
+- Wealth Management: Financial planning, investments, banking for high-net-worth individuals and families
+- Revenue (FY2024): $22.1 billion
+- Net Income: $5.8 billion
+- Assets under management (AUM): $3.9 trillion
+- Client assets: $5.9 trillion
+
+Corporate:
+- Treasury and Chief Investment Office
+- Other corporate functions
+- Revenue (FY2024): $4.8 billion
+- Net Income: $2.9 billion
+
+ITEM 1A. RISK FACTORS
+
+Credit Risk:
+- Potential deterioration in consumer credit quality due to economic slowdown
+- Commercial real estate (CRE) exposure: approximately $174 billion total, with $35 billion in office-related CRE loans
+- Increasing credit card delinquencies and net charge-offs
+- Leveraged lending exposure in a rising rate environment
+- Geopolitical risks affecting international lending portfolios
+
+Market Risk:
+- Interest rate risk from the investment securities portfolio
+- Unrealized losses on held-to-maturity (HTM) securities
+- Trading revenue volatility
+- Counterparty credit risk from derivatives and securities financing activities
+- Liquidity risk in stress scenarios
+
+Regulatory and Legal Risk:
+- Basel III Endgame implementation uncertainty
+- FDIC special assessment ($2.9 billion pre-tax charge)
+- Ongoing regulatory examinations and enforcement actions
+- Litigation reserves: $3.8 billion
+- CRA (Community Reinvestment Act) compliance and modernization
+- Consumer financial protection regulations (CFPB)
+- Anti-money laundering and sanctions compliance
+- Resolution planning (living will) requirements
+
+Technology and Operational Risk:
+- Cybersecurity threats and data breaches
+- Technology modernization and legacy system risk
+- AI/ML model risk and regulatory expectations
+- Third-party and vendor risk management
+- Business continuity and operational resilience
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+Consolidated Financial Highlights (FY2024):
+- Total Net Revenue: $154.5 billion
+- Net Interest Income: $92.6 billion
+- Noninterest Revenue: $61.9 billion
+- Provision for Credit Losses: $11.2 billion
+- Noninterest Expense: $91.1 billion
+- Net Income: $48.0 billion
+- Diluted Earnings Per Share: $16.63
+- Return on Common Equity (ROCE): 15%
+- Return on Tangible Common Equity (ROTCE): 19%
+- Overhead Ratio (Efficiency Ratio): 59%
+
+Balance Sheet Highlights:
+- Total Assets: $4.0 trillion
+- Total Deposits: $2.4 trillion
+- Total Loans: $1.3 trillion
+- Total Stockholders' Equity: $345 billion
+- CET1 Capital Ratio: 15.3% (well above 11.4% regulatory minimum including buffers)
+- Tier 1 Capital Ratio: 17.0%
+- Total Capital Ratio: 18.7%
+- Supplementary Leverage Ratio (SLR): 6.6%
+- Liquidity Coverage Ratio (LCR): 113%
+
+Credit Quality:
+- Net Charge-Offs: $9.8 billion (net charge-off rate: 0.76%)
+- Nonperforming Loans: $8.2 billion
+- Allowance for Credit Losses: $22.4 billion (reserve coverage ratio: 1.7%)
+- Consumer credit card NCO rate: 3.3%
+- Wholesale NCO rate: 0.12%
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+Revenue Analysis:
+Total net revenue increased 11% year-over-year, driven by:
+- Net interest income growth of 4%, reflecting higher rates and loan growth, partially offset by deposit migration to higher-yielding products
+- Noninterest revenue growth of 24%, driven by record investment banking fees, strong markets revenue, and asset management fee growth from higher AUM
+
+Net Interest Income:
+NII of $92.6 billion reflected the continued benefit of higher interest rates on the loan portfolio and investment securities. Net interest margin was approximately 2.6%. The firm benefited from deposit repricing lags, though deposit beta has been increasing.
+
+Provision for Credit Losses:
+Provision of $11.2 billion reflected net charge-offs of $9.8 billion and a net reserve build of $1.4 billion, primarily driven by:
+- Credit card net charge-offs of $7.2 billion, reflecting normalization from historically low pandemic-era levels
+- Commercial real estate reserves of $2.1 billion for the office subsector
+- Forward-looking economic scenarios incorporating probability-weighted outcomes
+
+Noninterest Expense:
+Expenses of $91.1 billion increased 6%, driven by:
+- Compensation expense ($45.2 billion, +5%) reflecting headcount growth in technology and controls
+- Technology expense ($16.8 billion, +10%) reflecting continued investments in cloud, AI/ML, and modernization
+- FDIC special assessment ($2.9 billion pre-tax) related to the 2023 bank failures
+- Regulatory and compliance costs
+
+Capital Management:
+- CET1 capital ratio of 15.3% provides a significant buffer above requirements (including G-SIB surcharge)
+- Returned $33.4 billion to shareholders through share repurchases ($22.0 billion) and dividends ($11.4 billion)
+- Stress Capital Buffer (SCB) of 3.3%
+
+RISK MANAGEMENT
+
+The Firm employs a comprehensive risk management framework:
+- Three lines of defense model (business management, risk management and compliance, internal audit)
+- Chief Risk Officer reports directly to the CEO and the Board Risk Committee
+- Enterprise-wide risk appetite framework with defined limits
+- Stress testing (CCAR/DFAST) drives capital planning
+- Real-time risk monitoring for market and counterparty risks
+- Operational risk management including cybersecurity, technology, and third-party risk
+
+AI and Technology:
+JPMorgan Chase is one of the largest technology investors in financial services:
+- Annual technology spend: $16.8 billion
+- Technology employees: approximately 57,000
+- AI/ML use cases in production: 400+ (fraud detection, risk management, customer experience, trading)
+- LLM and generative AI pilots in document analysis, code generation, and customer service
+- Investments in quantum computing research
+
+REGULATORY CAPITAL
+
+As a G-SIB, JPMorgan Chase faces the highest capital requirements:
+- Minimum CET1: 4.5%
+- Capital Conservation Buffer: 2.5%
+- G-SIB Surcharge: 4.0% (Bucket 4 — highest among US banks)
+- Stress Capital Buffer: 3.3%
+- Countercyclical Capital Buffer: 0%
+- Total CET1 Requirement: 14.3% (effective minimum including all buffers, adjusted for SCB)
+- Actual CET1 Ratio: 15.3% (buffer of ~100 bps above requirement)
+
+Resolution Planning:
+The Firm's resolution plan (living will) describes how the Firm could be resolved under bankruptcy in a rapid and orderly manner without government support. The plan is updated biennially and has received "no deficiency" findings from the Federal Reserve and FDIC.
